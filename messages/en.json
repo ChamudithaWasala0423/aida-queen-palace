@@ -1,3 +1,17 @@
 {
-    
+     "Navigation": {
+        "managebooking": "Rate us now",
+        "home": "Home",
+        "aboutUs": "About Us",
+        "Accommodation": "Accommodation",
+        "Experience": "Experience",
+        "Gallery": "Gallery",
+        "contact": "Contact Us",
+        "BookNow": "Book Now",
+        "ourCollections": "Our Collections",
+        "aidaAyurveda": "AIDA Ayurveda",
+        "aidaHotelBentota": "AIDA Hotel Bentota",
+        "DiscoverMore": "Discover More",
+        "Blog": "Blog"
+    }
 }

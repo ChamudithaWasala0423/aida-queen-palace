@@ -89,19 +89,15 @@ export default function NavBar() {
     {
       name: t("ourCollections"),
       children: [
-        { name: t("aidaHotelBentota"), href: "/aida-hotel" },
-        // { name: t("aidaHotelInduruwa"), href: "/" },
+        { name: t("aidaAyurveda"), href: "https://www.aidaayurveda.com" },
+        {
+          name: t("aidaHotelBentota"),
+          href: "https://www.aidaayurveda.com/aida-hotel",
+        },
       ],
     },
-    {
-      name: t("Experience"),
-      children: [
-        { name: "Ayurveda", href: "/aida-ayurveda" },
-        { name: "YOGA", href: "/aida-yoga" },
-        { name: t("Accommodation"), href: "/accommodation" },
-        { name: t("ThingsTodo"), href: "/experience" },
-      ],
-    },
+    { name: t("Accommodation"), href: "/accommodation" },
+    { name: t("Experience"), href: "/experience" },
     { name: t("Gallery"), href: "/gallery" },
     { name: t("Blog"), href: "/blog" },
     { name: t("contact"), href: "/contact" },
@@ -130,7 +126,7 @@ export default function NavBar() {
             : "-translate-y-full opacity-0 pointer-events-none"
         )}
       >
-        <div className="hidden xl:block m-2 rounded-lg w-[80%] 2xl:w-[60%] bg-black/95 backdrop-blur border-1  shadow-lg border-orange-500">
+        <div className="hidden xl:block m-2 rounded-lg w-[80%] 2xl:w-[60%] bg-black/95 backdrop-blur border-1  shadow-lg border-rose-700">
           <div className="mx-auto w-full px-6">
             <div className="flex h-14  items-center justify-center gap-6">
               {/* Left items */}
@@ -144,7 +140,7 @@ export default function NavBar() {
                             href={item.href}
                             className={cn(
                               navigationMenuTriggerStyle(),
-                              "bg-transparent text-white hover:text-orange-600 hover:underline font-medium"
+                              "bg-transparent text-white hover:text-rose-700 hover:underline font-medium"
                             )}
                           >
                             {item.name}
@@ -154,7 +150,7 @@ export default function NavBar() {
                     }
                     return (
                       <NavigationMenuItem key={item.name}>
-                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-orange-600 font-medium">
+                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-rose-700 font-medium">
                           {item.name}
                         </NavigationMenuTrigger>
                         <NavigationMenuContent>
@@ -201,7 +197,7 @@ export default function NavBar() {
                             href={item.href}
                             className={cn(
                               navigationMenuTriggerStyle(),
-                              "bg-transparent text-white hover:text-orange-600 hover:underline font-medium"
+                              "bg-transparent text-white hover:text-rose-700 hover:underline font-medium"
                             )}
                           >
                             {item.name}
@@ -211,7 +207,7 @@ export default function NavBar() {
                     }
                     return (
                       <NavigationMenuItem key={item.name}>
-                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-orange-600 font-medium">
+                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-rose-700 font-medium">
                           {item.name}
                         </NavigationMenuTrigger>
                         <NavigationMenuContent>
@@ -290,7 +286,7 @@ export default function NavBar() {
             </DropdownMenuContent>
           </DropdownMenu>
           <Link href="https://booking.aidaayurveda.com" target="_blank">
-            <Button size="lg" className="ml-4 rounded-full text-white">
+            <Button size="lg" className="ml-4 rounded-full text-white bg-rose-700 hover:bg-rose-700 font-medium">
               {t("BookNow")}
             </Button>
           </Link>
@@ -298,7 +294,7 @@ export default function NavBar() {
       </div>
 
       {/* Desktop nav with centered logo and items around */}
-      <nav className="hidden xl:block bg-black px-6 py-3 text-white border-b-3 border-orange-500">
+      <nav className="hidden xl:block bg-black px-6 py-3 text-white border-b-3 border-rose-700">
         <div className="flex items-center justify-center gap-6">
           {/* Left items */}
           <NavigationMenu viewport={false}>
@@ -394,7 +390,7 @@ export default function NavBar() {
       </nav>
 
       {/* Mobile nav trigger */}
-      <div className="flex items-center justify-between bg-orange-500 px-4 py-3 text-white xl:hidden">
+      <div className="flex items-center justify-between bg-rose-700 px-4 py-3 text-white xl:hidden">
         <Button
           variant="ghost"
           size="icon"
@@ -414,7 +410,7 @@ export default function NavBar() {
         )}
       >
         {/* Mobile top with centered logo */}
-        <div className="flex items-center justify-between p-4 border-b border-orange-500">
+        <div className="flex items-center justify-between p-4 border-b border-rose-700">
           <div className="flex-1 text-center">
             <Link href="/" className="inline-block">
               <Image
@@ -430,7 +426,7 @@ export default function NavBar() {
             variant="ghost"
             size="icon"
             onClick={() => setMobileMenuOpen(false)}
-            className="text-orange-600"
+            className="text-rose-700"
           >
             <X className="h-6 w-6" />
             <span className="sr-only">Close menu</span>
@@ -446,7 +442,7 @@ export default function NavBar() {
                   <li key={item.href}>
                     <Link
                       href={item.href}
-                      className="block rounded-lg px-3 py-3 text-lg font-medium text-orange-600 hover:bg-orange-50"
+                      className="block rounded-lg px-3 py-3 text-lg font-medium text-rose-700 hover:bg-rose-50"
                       onClick={() => setMobileMenuOpen(false)}
                     >
                       {item.name}
@@ -458,7 +454,7 @@ export default function NavBar() {
               return (
                 <li key={item.name}>
                   <button
-                    className="flex w-full items-center justify-between rounded-lg px-3 py-3 text-lg font-medium text-orange-600 hover:bg-orange-50"
+                    className="flex w-full items-center justify-between rounded-lg px-3 py-3 text-lg font-medium text-rose-600 hover:bg-rose-50"
                     onClick={() => toggleMobileSection(item.name)}
                   >
                     <span>{item.name}</span>
@@ -475,12 +471,12 @@ export default function NavBar() {
                       open ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
                     )}
                   >
-                    <ul className="mt-1 space-y-1 rounded-md bg-orange-50 p-2">
+                    <ul className="mt-1 space-y-1 rounded-md bg-rose-50 p-2">
                       {item.children.map((child) => (
                         <li key={child.href}>
                           <Link
                             href={child.href}
-                            className="block rounded-md px-3 py-2 text-base text-orange-700 hover:bg-white"
+                            className="block rounded-md px-3 py-2 text-base text-rose-700 hover:bg-white"
                             onClick={() => setMobileMenuOpen(false)}
                           >
                             {child.name}
@@ -499,7 +495,7 @@ export default function NavBar() {
         <div className="p-6">
           <Link href="https://booking.aidaayurveda.com" target="_blank">
             <Button
-              className="w-full bg-orange-500 text-white font-medium hover:bg-orange-600 rounded-full py-3"
+              className="w-full bg-rose-600 text-white font-medium hover:bg-rose-700 rounded-full py-3"
               onClick={() => setMobileMenuOpen(false)}
             >
               {t("BookNow")}
