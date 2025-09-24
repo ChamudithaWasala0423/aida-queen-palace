@@ -43,7 +43,10 @@
         "centerTitleThreeButtonText": "Explore More",
         "ChooseTitle": "Why Choose AIDA Queen Palace",
         "ChooseDescription": "Experience unparalleled luxury and personalized service at AIDA Queen Palace, where every detail is designed to create unforgettable memories.",
-        "ChooseButtonText": "See More"
+        "ChooseButtonText": "See More",
+        "galleryTitle": "Our Gallery",
+        "galleryDescription": "Explore our stunning gallery showcasing the beauty and luxury of AIDA Queen Palace, your perfect beachfront escape in Sri Lanka.",
+        "galleryButtonText": "View Gallery"
     },
     "DiningSection": {
         "title": "Gourmet Dining by the Sea",
@@ -139,5 +142,32 @@
                 "description": "Participate in turtle releases and learn about conservation at nearby hatcheries."
             }
         }
+    },
+      "Footer": {
+        "LogoAlt": "AIDA Queen Palace Logo",
+        "ContactButton": "Contact us",
+        "CompanyTitle": "Company",
+        "CollectionsTitle": "Our Collections",
+        "ExperienceTitle": "Experience",
+        "OtherTitle": "Other",
+        "Links": {
+            "Home": "Home",
+            "AboutUs": "About Us",
+            "Gallery": "Gallery",
+            "AidaHotelBentota": "AIDA Hotel Bentota",
+            "AidaAyurveda": "AIDA Ayurveda",
+            "Accommodation": "Accommodation",
+            "Blog": "Blog",
+            "PrivacyPolicy": "Privacy Policy",
+            "CookiePolicy": "Cookie Policy"
+        },
+        "NewsletterTitle": "Join the newsletter and read the new posts first",
+        "NewsletterPlaceholder": "Your email here...",
+        "Subscribe": "Subscribe",
+        "BrandName": "AIDA Queen Palace",
+        "AllRightsReserved": "All rights reserved.",
+        "ConceptBy": "Concept By",
+        "DevelopedBy": "Developed By",
+        "LeafAlt": "ayurvedic icon"
     }
 }

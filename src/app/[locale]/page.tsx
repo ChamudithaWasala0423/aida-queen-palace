@@ -4,6 +4,7 @@ import ChooseUs from "@/components/sections/choose-us";
 import DiningSection from "@/components/sections/dining-section";
 import ExperianceCard from "@/components/sections/experiance-card";
 import { ExperienceCardsCarousel } from "@/components/sections/experience-carosel";
+import { GallerySection } from "@/components/sections/gallery-section";
 import HeroCarousel from "@/components/sections/hero-carousel";
 import ImageFullGrid from "@/components/sections/ImageFullGrid";
 import { useTranslations } from "next-intl";
@@ -45,6 +46,15 @@ export default function Home() {
         />
         <ExperianceCard />
         <ExperienceCardsCarousel />
+      </div>
+      <div className="py-24 bg-slate-100">
+        <CenterTitle
+          title={`${t("galleryTitle")}`}
+          description={t("galleryDescription")}
+          buttonUrl="/gallery"
+          buttonText={`${t("galleryButtonText")}`}
+        />
+        <GallerySection />
       </div>
     </>
   );

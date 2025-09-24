@@ -26,7 +26,7 @@ const Footer = () => {
   const t2= useTranslations("Navigation");
 
   return (
-    <footer className="relative bg-[#FCF2EB] border-t py-24 overflow-hidden mt-16">
+    <footer className="relative  border-t py-24 overflow-hidden mt-16">
       <MaxWidthWrapper>
         <div className="col-span-1 flex flex-row items-center justify-between ">
           <div className="mb-4">
@@ -42,7 +42,7 @@ const Footer = () => {
           <Link href="/contact">
             <Button
               size="lg"
-              className="bg-orange-500 hover:bg-orange-500 text-white  rounded-full"
+              className="bg-cyan-600 hover:bg-cyan-700 text-white  "
             >
               {t("ContactButton")} <MoveRight className="ml-2" />
             </Button>
@@ -57,72 +57,57 @@ const Footer = () => {
               <ul className="space-y-2">
                 <li>
                   <Link href="/">
-                    <p className="hover:text-orange-600">{t("Links.Home")}</p>
+                    <p className="hover:text-cyan-500">{t("Links.Home")}</p>
                   </Link>
                 </li>
                 <li>
                   <Link href="/about">
-                    <p className="hover:text-orange-600">
+                    <p className="hover:text-cyan-500">
                       {t("Links.AboutUs")}
                     </p>
                   </Link>
                 </li>
                 <li>
                   <Link href="/gallery">
-                    <p className="hover:text-orange-600">
+                    <p className="hover:text-cyan-500">
                       {t("Links.Gallery")}
                     </p>
                   </Link>
                 </li>
+                 <li>
+                  <Link href="/experience">
+                    <p className="hover:text-cyan-500">
+                      {t("ExperienceTitle")}
+                    </p>
+                  </Link>
+                </li>
+                <li>
+                    <Link href="/accommodation">
+                      <p className="hover:text-cyan-500">
+                        {t("Links.Accommodation")}
+                      </p>
+                    </Link>
+                  </li>
               </ul>
             </div>
 
             <div>
               <h4 className="font-bold mb-2">{t("CollectionsTitle")}</h4>
               <ul className="space-y-2">
+                        <li>
+                  <Link href="https://www.aidaayurveda.com">
+                    <p className="hover:text-cyan-500">
+                      {t("Links.AidaAyurveda")}
+                    </p>
+                  </Link>
+                </li>
                 <li>
-                  <Link href="/aida-hotel">
-                    <p className="hover:text-orange-600">
+                  <Link href="https://www.aidaayurveda.com/aida-hotel">
+                    <p className="hover:text-cyan-500">
                       {t("Links.AidaHotelBentota")}
                     </p>
                   </Link>
                 </li>
-                {/* <li>
-                  <Link href="/">
-                    <p className="hover:text-orange-600">
-                      {t("Links.AidaHotelInduruwa")}
-                    </p>
-                  </Link>
-                </li> */}
-                <h4 className="font-bold mb-2">{t("ExperienceTitle")}</h4>
-                <ul className="space-y-2">
-                  <li>
-                    <Link href="/aida-ayurveda">
-                      <p className="hover:text-orange-600">
-                        {t("Links.Ayurveda")}
-                      </p>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/aida-yoga">
-                      <p className="hover:text-orange-600">{t("Links.Yoga")}</p>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/accommodation">
-                      <p className="hover:text-orange-600">
-                        {t("Links.Accommodation")}
-                      </p>
-                    </Link>
-                  </li>
-                      <li>
-                    <Link href="/experience">
-                      <p className="hover:text-orange-600">
-                        {t2("ThingsTodo")}
-                      </p>
-                    </Link>
-                  </li>
-                </ul>
               </ul>
             </div>
 
@@ -131,17 +116,17 @@ const Footer = () => {
               <ul className="space-y-2">
                 <li>
                   <Link href="/blog">
-                    <p className="hover:text-orange-600">{t("Links.Blog")}</p>
+                    <p className="hover:text-cyan-500">{t("Links.Blog")}</p>
                   </Link>
                 </li>
                    <li>
                   <Link href="/privacy-policy">
-                    <p className="hover:text-orange-600">{t("Links.PrivacyPolicy")}</p>
+                    <p className="hover:text-cyan-500">{t("Links.PrivacyPolicy")}</p>
                   </Link>
                 </li>
                    <li>
                   <Link href="/cookie-policy">
-                    <p className="hover:text-orange-600">{t("Links.CookiePolicy")}</p>
+                    <p className="hover:text-cyan-500">{t("Links.CookiePolicy")}</p>
                   </Link>
                 </li>
               </ul>
@@ -183,27 +168,27 @@ const Footer = () => {
 
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link href="https://www.airbnb.co.uk/rooms/1125727581806598525?source_impression_id=p3_1729319754_P38sb6pjDpjcI0uR">
-              <p className="text-gray-500 hover:text-orange-600">
+              <p className="text-gray-500 hover:text-cyan-500">
                 <FaAirbnb size={20} />
               </p>
             </Link>
             <Link href="https://www.tripadvisor.com/Hotel_Review-g297895-d648029-Reviews-Aida_Ayurveda_Holistic_Health_Resort-Bentota_Galle_District_Southern_Province.html">
-              <p className="text-gray-500 hover:text-orange-600">
+              <p className="text-gray-500 hover:text-cyan-500">
                 <FaTripadvisor size={20} />
               </p>
             </Link>
             <Link href="https://www.booking.com/hotel/lk/aida-ayurveda.en-gb.html?aid=356980&label=gog235jc-1FCAsohQFCDWFpZGEtYXl1cnZlZGFICVgDaIUBiAEBmAEJuAEXyAEM2AEB6AEB-AECiAIBqAIDuAKHps24BsACAdICJGIxMjI0NDJkLTZkYTAtNDlmMi04YTBkLTU0MzdhY2I1ZmFjNNgCBeACAQ&sid=1ef2af0253a6cffc308d55ee64bb8d81&dest_id=-2213890;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1729319695;srpvid=ccce2e443d20004b;type=total;ucfs=1&">
-              <p className="text-gray-500 hover:text-orange-600">
+              <p className="text-gray-500 hover:text-cyan-500">
                 <TbBrandBooking size={20} />
               </p>
             </Link>
             <Link href="https://www.facebook.com/AVINYAAYURVEDA/?_rdr">
-              <p className="text-gray-500 hover:text-orange-600">
+              <p className="text-gray-500 hover:text-cyan-500">
                 <FaFacebookF size={20} />
               </p>
             </Link>
             <Link href="https://www.instagram.com/avinya.ayurveda.official/">
-              <p className="text-gray-500 hover:text-orange-600">
+              <p className="text-gray-500 hover:text-cyan-500">
                 <FaInstagramSquare size={20} />
               </p>
             </Link>
@@ -222,11 +207,11 @@ const Footer = () => {
       </MaxWidthWrapper>
       <div className=" absolute bottom-0 overflow-hidden  w-full flex items-center justify-center   pointer-events-none">
         <Image
-          src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758134544/footer_1_hbfdal_c3q0ky_1_g0z1hj.png"
+          src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758702058/footer_aqp_agji1z.png"
           alt={t("LeafAlt")}
           width={1700}
           height={1000}
-          className="w-full h-full opacity-20"
+          className="w-full h-full opacity-10"
         />
       </div>
     </footer>

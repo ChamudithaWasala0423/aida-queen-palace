@@ -5,6 +5,8 @@ import "./globals.css";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import NavBar from "@/components/general/navbar";
 import ScrollBookNow from "@/components/general/ScrollBookNow";
+import ScrollToTop from "@/components/general/ScrollToTop";
+import Footer from "@/components/general/Footer";
 
 const monserrat = Montserrat({
   variable: "--font-montserrat",
@@ -30,10 +32,12 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <body className={`${monserrat.className} ${lora.variable} antialiased`}>
+        <ScrollToTop />
         <NextIntlClientProvider>
           <NavBar />
           <ScrollBookNow />
           {children}
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>
