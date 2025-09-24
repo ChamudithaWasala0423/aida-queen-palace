@@ -183,5 +183,39 @@
         "ChairmanTitle": "About Our Chairman",
         "ChairmanDescription": "Founded in 1975 by the visionary entrepreneur Deshabandu Deshamanya Nissanka Weerasena, the AIDA Group of Companies has emerged as a beacon of success both locally and internationally. Rooted in a legacy of excellence in the gem and jewellery business, Mr. Weerasena embarked on a remarkable journey, single-handedly crafting the AIDA brand into a symbol of quality and innovation. The genesis of AIDA finds its inspiration in the world of German opera, a nod to the invaluable support extended by German tourists during the nascent stages of the business. Fuelled by a relentless spirit and an unwavering commitment to excellence, Mr. Weerasena forged enduring relationships and cultivated a sterling reputation within the industry. Drawing from the rich tapestry of experience in the gem and jewellery trade, AIDA swiftly diversified its portfolio, transcending boundaries and venturing into new horizons. From the glittering world of gems, the AIDA brand seamlessly expanded into the vibrant realms of tourism, gastronomy, textiles, and the rejuvenating sanctuary of Ayurvedic hospitality.",
         "ChairmanButtonText": "Contact us"
+    },
+    "AccommodationPage": {
+        "HeadingTitle": "Accommodation | AIDA Queen Palace",
+        "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
+        "HeroImageTitle": "Accommodation",
+        "HeroImageDescription": "At AIDA Queen Palace, our accommodation is designed to envelop you in luxury and island tranquility. Choose from an array of elegant rooms and private villas, each thoughtfully appointed to make your stay indulgent and relaxing. All accommodations feature modern amenities – from air conditioning and plush bedding to free Wi-Fi and personal safes – ensuring you enjoy the comforts of a world-class hotel amidst the beauty of the tropics. Wake up to panoramic sea views or the sight of lush gardens right outside your window. Below are the room and suite options available at our Induruwa beachfront hotel.",
+        "HeroImageButtonText": "Contact Us"
+    },
+    "AccommodationGrid": {
+        "DeluxeDoubleSuiteRoomOne": "Deluxe Double Suite Room One",
+        "DeluxeDoubleSuiteRoomTwo": "Deluxe Double Suite Room Two",
+        "SuperiorDoubleRoomOne": "Superior Double Room One",
+        "SuperiorDoubleRoomTwo": "Superior Double Room Two",
+        "SuperiorTripleRoom": "Superior Triple Room",
+        "chaletDescription": "Each thoughtfully appointed to make your stay indulgent and relaxing. All accommodations feature modern amenities – from air conditioning and plush bedding to free Wi-Fi and personal safes – ensuring you enjoy the comforts of a world-class hotel amidst the beauty of the tropics. Wake up to panoramic sea views or the sight of lush gardens right outside your window.",
+        "facilitiesTitle": "Facilities:",
+        "facilityKitchen": "Kitchen",
+        "facilitySittingArea": "Sitting area",
+        "facilityGarden": "Garden",
+        "facilityAC": "AC",
+        "facilityBath": "Bath",
+        "facilityPool": "Pool",
+        "facilityDesk": "Desk",
+        "facilityCozySittingArea": "Featuring a cozy sitting area",
+        "facilityEquippedKitchen": "Fully equipped kitchen",
+        "facilityHotWater": "Hot water",
+        "facilityTileFloor": "Titanium flooring",
+        "facilityTowels": "Towels",
+        "facilityKaraoke": "Offer a karaoke space",
+        "facilitySocket": "Socket near the bed",
+        "facilityClothesRack": "Clothes rack",
+        "knowMoreButton": "Know More",
+        "bookNowButton": "Book Now"
     }
 }
