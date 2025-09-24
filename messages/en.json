@@ -1,5 +1,5 @@
 {
-     "Navigation": {
+    "Navigation": {
         "managebooking": "Rate us now",
         "home": "Home",
         "aboutUs": "About Us",
@@ -14,7 +14,7 @@
         "DiscoverMore": "Discover More",
         "Blog": "Blog"
     },
-        "BookingBar": {
+    "BookingBar": {
         "Tagline": "Best Guaranteed",
         "IconAlt": "best rated icon",
         "SelectRoomPlaceholder": "Select a Room",
@@ -34,6 +34,27 @@
     "HomePage": {
         "HeadingTitle": " AIDA Queen Palace | Luxury Beach Resort in Induruwa, Sri Lanka",
         "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
-        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels"
+        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
+        "ImageFullGridTitle": "Welcome to AIDA Queen Palace ",
+        "ImageFullGridDescription": "AIDA Queen Palace, a luxury beach resort in Sri Lanka nestled on the golden shores of Induruwa, just minutes from Bentota. Located 8 km south of Bentota on the island’s scenic west coast, our resort offers an idyllic tropical escape with direct beachfront access and world-class amenities.",
+        "ImageFullGridButtonText": "Book Your Stay"
+    },
+    "DiningSection": {
+        "title": "Gourmet Dining by the Sea",
+        "description": "Savor the flavors of Sri Lanka and beyond at our signature Ocean Breeze Restaurant, set just meters from the shore with uninterrupted sea views.",
+        "features": {
+            "freshSeafood": {
+                "title": "Fresh Local Seafood",
+                "description": "Daily catch from nearby fishermen prepared by our expert chefs"
+            },
+            "authenticCuisine": {
+                "title": "Authentic Sri Lankan Cuisine",
+                "description": "Traditional curries and spices celebrating the island's rich culinary heritage"
+            },
+            "privateBeachDining": {
+                "title": "Private Beach Dining",
+                "description": "Romantic sunset dinners on the beach with personal butler service"
+            }
+        }
     }
 }

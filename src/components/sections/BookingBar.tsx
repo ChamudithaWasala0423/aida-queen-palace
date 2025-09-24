@@ -83,7 +83,7 @@ const BookingBar = () => {
                 className="text-sm font-medium text-white w-full h-full"
                 aria-label={t("BookNowAria")}
                 onClick={() =>
-                  router.push("https://booking.aidaayurveda.com")
+                  router.push("https://booking.aidaqueenpalace.com")
                 }
               >
                 {t("BookNow")}

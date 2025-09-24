@@ -274,8 +274,8 @@ export default function NavBar() {
               ))}
             </DropdownMenuContent>
           </DropdownMenu>
-          <Link href="https://booking.aidaayurveda.com" target="_blank">
-            <Button size="lg" className="ml-4 rounded-full text-white bg-cyan-600 hover:bg-cyan-700 font-medium">
+          <Link href="https://booking.aidaqueenpalace.com" target="_blank">
+            <Button size="lg" className="ml-4  text-white bg-cyan-600 hover:bg-cyan-700 font-medium">
               {t("BookNow")}
             </Button>
           </Link>
@@ -482,7 +482,7 @@ export default function NavBar() {
 
         {/* Mobile CTA */}
         <div className="p-6">
-          <Link href="https://booking.aidaayurveda.com" target="_blank">
+          <Link href="https://booking.aidaqueenpalace.com" target="_blank">
             <Button
               className="w-full bg-cyan-600 text-white font-medium hover:bg-cyan-700 rounded-full py-3"
               onClick={() => setMobileMenuOpen(false)}

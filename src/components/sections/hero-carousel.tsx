@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useCallback } from "react";
 import Image from "next/image";
-import { useTranslations } from "next-intl";
 import BookingBar from "./BookingBar";
 
 interface CarouselItem {
@@ -11,7 +10,6 @@ interface CarouselItem {
 }
 
 export default function HeroCarousel() {
-  const t = useTranslations("HeroMain");
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
 
