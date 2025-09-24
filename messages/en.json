@@ -37,7 +37,10 @@
         "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
         "ImageFullGridTitle": "Welcome to AIDA Queen Palace ",
         "ImageFullGridDescription": "AIDA Queen Palace, a luxury beach resort in Sri Lanka nestled on the golden shores of Induruwa, just minutes from Bentota. Located 8 km south of Bentota on the island’s scenic west coast, our resort offers an idyllic tropical escape with direct beachfront access and world-class amenities.",
-        "ImageFullGridButtonText": "Book Your Stay"
+        "ImageFullGridButtonText": "Book Your Stay",
+        "centerTitlethree": "Experience With Us",
+        "centerTitleThreeDescription": "Experience the beauty of Sri Lanka with our curated experiences that showcase the best of the island's culture, nature, and adventure. Get ready to create unforgettable memories.",
+        "centerTitleThreeButtonText": "Explore More"
     },
     "DiningSection": {
         "title": "Gourmet Dining by the Sea",
@@ -56,5 +59,48 @@
                 "description": "Romantic sunset dinners on the beach with personal butler service"
             }
         }
+    },
+        "ExperienceSection": {
+        "HeadingTitle": "About | Village Headman’s Bungalow",
+        "HeadingDescription": "The Village Headman’s Bungalow, affectionately known as VHB, carries the legacy of a remarkable man — Mr. Johannas Abenayake, a respected Senior Village Headman from 1926 to 1956. His service to the community was honored in 1954 with a medal from Her Majesty Queen Elizabeth.",
+        "HeroTitle": "Experience",
+        "HeroDescription": "Discover the soul of Sri Lanka through immersive experiences crafted just for you",
+        "heroButtonText": "Book Inquiry",
+        "experianseTitleOne": "Bentota Beach",
+        "experianseTitleOneDescription": "Bentota Beach is a long, sandy beach with calm waters that are perfect for swimming and sunbathing. There are also a number of water sports operators offering activities such as surfing, paddleboarding, and kayaking. The beach is also home to a number of restaurants and bars, as well as a few hotels and resorts.",
+        "experianseTitleOneLocation": "Bentota, Sri Lanka",
+        "experianseTitleTwo": "Aluthgama Beach",
+        "experianseTitleTwoDescription": "Aluthgama Beach is a bit smaller than Bentota Beach, but it is equally beautiful. The beach is known forits strong waves, which make it a popular spot for surfing. There are also a number of other water sportsavailable, such as paddleboarding and kayaking. The beach is also home to a number of restaurants andbars, as well as a few hotels and resorts.",
+        "experianseTitleTwoLocation": "Aluthgama, Sri Lanka",
+        "experianseTitleThree": "Bentota Boat safari",
+        "experianseTitleThreeDescription": "Glide along the serene river, your vessel guided by experienced local guides who possess an intimateknowledge of the area's hidden treasures and secrets. As you venture deeper into this enchantingecosystem, prepare to encounter a captivating array of creatures that call this verdant sanctuary home.",
+        "experianseTitleThreeLocation": "Benthota, Sri Lanka",
+        "experianseTitleFour": "Turtle hatchery Kosgoda",
+        "experianseTitleFourDescription": "Scattered along Sri Lanka's coast, turtle hatcheries serve as sanctuaries for endangered sea turtles,providing refuge, rehabilitation, and education. Visitors witness the delicate hatching process, hold tinyhatchlings, and release them back into the sea, fostering a connection to these remarkable creatures",
+        "experianseTitleFourLocation": "Kosgoda, Sri Lanka",
+        "experianseTitleFive": "Bentota river water sports",
+        "experianseTitleFiveDescription": "Feel the surge of adrenaline as you carve through the glistening waters on a jet ski, the wind whippingthrough your hair and the riverbanks blurring past your vision. Hold on tight as you experience theexhilarating twists and turns of water skiing, the spray of water refreshing your face as you glide acrossthe surface. Embark on a thrilling ride on a banana boat, bouncing along the waves and sharing laughterwith friends as you navigate the river's bends.",
+        "experianseTitleFiveLocation": "Bentota, Sri Lanka",
+        "experianseTitleSix": "Bentota river fishing",
+        "experianseTitleSixDescription": "The Bentota River, winding its way through the lush landscapes of Sri Lanka, offers an angler's paradise,a haven where the thrill of catching a prized fish meets the serenity of nature's embrace. As you castyour line into the shimmering waters, anticipation builds, the gentle tug of the river promising arewarding encounter with the diverse aquatic life that thrives within its depths",
+        "experianseTitleSixLocation": "Bentota, Sri Lanka",
+        "experianseTitleSeven": "Wood carvings and masks",
+        "experianseTitleSevenDescription": "Tangalle Beach is a wide, palm-lined beach located in the southern part of Sri Lanka. It's less crowded and offers a peaceful atmosphere for sunbathing and swimming. Tangalle is also known for its rich marine biodiversity.",
+        "experianseTitleSevenLocation": "Bentota, Sri Lanka",
+        "experianseTitleEight": "Kandeviharaya temple",
+        "experianseTitleEightDescription": "As you approach the temple, a sense of calm washes over you, the gentle breeze carrying the soothingsounds of chanting monks. The air is filled with the fragrance of incense, mingling with the sweet aromaof frangipani flowers that adorn the temple grounds. Step inside the temple's main hall, and your eyes are immediately drawn to the magnificent Buddhastatue, its serene expression radiating an aura of peace.",
+        "experianseTitleEightLocation": "Bentota, Sri Lanka",
+        "experianseTitleNine": "Ayurveda",
+        "experianseTitleNineDescription": "Under the guidance of experienced Ayurvedic practitioners, you will undergo a comprehensiveassessment to determine your unique constitution, or prakriti. This assessment involves observing yourphysical characteristics, analyzing your lifestyle habits, and understanding your emotional tendencies. Based on your prakriti, a personalized treatment plan will be tailored to address your specific needs.",
+        "experianseTitleNineLocation": "Bentota, Sri Lanka",
+        "experianseTitleTen": "Beruwala fish market",
+        "experianseTitleTenDescription": "The bustling Beruwala Fish Market, nestled along the vibrant coastline of Sri Lanka, is a kaleidoscope ofcolors, aromas, and sounds, a testament to the island's rich fishing heritage and culinary traditions. Asyou step into this lively marketplace, your senses are immediately awakened by the vibrant hues offreshly caught seafood, the tantalizing aroma of spices wafting through the air, and the lively chatter ofvendors and buyers.",
+        "experianseTitleTenLocation": "Bentota, Sri Lanka",
+        "experianseTitleEleven": "Cinnamon Cultivation",
+        "experianseTitleElevenDescription": "Learn the traditional art of cinnamon cultivation and processing right on our property",
+        "experianseTitleElevenLocation": "Bentota, Sri Lanka",
+        "experianseTitleTwelve": "Brief garden",
+        "experianseTitleTwelveDescription": "A sanctuary of tranquility and botanical wonders. Once a rubber plantation, this enchanting estate hasbeen transformed into a masterpiece of landscape architecture, a testament to the visionary artistry ofBevis Bawa. As you step through the garden's gates, a sense of serenity washes over you, the gentle rustling of leavesand the chirping of birds creating a symphony of nature's embrace. Meandering pathways, adorned withvibrant blooms and verdant foliage, beckon you to explore the garden's hidden treasures.",
+        "experianseTitleTwelveLocation": "Bentota, Sri Lanka"
     }
 }
