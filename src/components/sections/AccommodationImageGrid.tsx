@@ -110,7 +110,7 @@ const AccommodationImageGrid = () => {
         <ImageSwiper images={images} />
       </div>
       <div className="mt-3">
-        <h2 className="text-center font-semibold text-2xl font-[family-name:var(--font-lora)]">{t(titleKey)}</h2>
+        <h2 className="text-center font-semibold text-lg">{t(titleKey)}</h2>
         <div className="flex items-center justify-center mt-4">
           <div className="flex items-center justify-between gap-4">
             <Dialog>
