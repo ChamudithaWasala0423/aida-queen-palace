@@ -7,7 +7,7 @@ const DiningSection = () => {
   const t = useTranslations('DiningSection');
 
   return (
-    <section id="dining" className="py-20">
+    <section id="dining" className="py-20 bg-slate-100">
       <MaxWidthWrapper>
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>

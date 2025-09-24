@@ -13,9 +13,9 @@ type Props = {
 const ImageFullGrid = ({ title, description, imageUrl, buttonText }: Props) => {
   return (
     <>
-      <section className="py-24">
-        <MaxWidthWrapper className="flex flex-col items-center gap-16 sm:gap-32 ">
-          <div className="flex flex-col  items-center gap-4 sm:gap-6">
+      <section className="overflow-hidden">
+        <MaxWidthWrapper className="flex flex-col items-center gap-16 sm:gap-32  mt-24">
+          <div className="flex flex-col  items-center gap-4 sm:gap-6 ">
             <Image
               src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758690534/Pngtree_european_royal_pattern_1534756_1_t8py9w.png"
               alt="AIDA Royal icon"

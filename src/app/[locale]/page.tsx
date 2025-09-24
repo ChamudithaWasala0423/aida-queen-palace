@@ -1,6 +1,8 @@
 import Heading from "@/components/general/Heading";
 import CenterTitle from "@/components/sections/centerTitle";
+import ChooseUs from "@/components/sections/choose-us";
 import DiningSection from "@/components/sections/dining-section";
+import ExperianceCard from "@/components/sections/experiance-card";
 import { ExperienceCardsCarousel } from "@/components/sections/experience-carosel";
 import HeroCarousel from "@/components/sections/hero-carousel";
 import ImageFullGrid from "@/components/sections/ImageFullGrid";
@@ -24,14 +26,24 @@ export default function Home() {
         }
         buttonText={t("ImageFullGridButtonText")}
       />
+      <div className="py-14">
+        <CenterTitle
+          title={`${t("ChooseTitle")}`}
+          description={`${t("ChooseDescription")}`}
+          buttonUrl="/accommodation"
+          buttonText={`${t("ChooseButtonText")}`}
+        />
+        <ChooseUs />
+      </div>
       <DiningSection />
-      <div className="py-14 bg-slate-100">
+      <div className="py-14 ">
         <CenterTitle
           title={`${t("centerTitlethree")}`}
           description={`${t("centerTitleThreeDescription")}`}
           buttonUrl="/experiance"
           buttonText={`${t("centerTitleThreeButtonText")}`}
         />
+        <ExperianceCard />
         <ExperienceCardsCarousel />
       </div>
     </>

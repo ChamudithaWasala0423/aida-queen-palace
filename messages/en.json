@@ -38,9 +38,12 @@
         "ImageFullGridTitle": "Welcome to AIDA Queen Palace ",
         "ImageFullGridDescription": "AIDA Queen Palace, a luxury beach resort in Sri Lanka nestled on the golden shores of Induruwa, just minutes from Bentota. Located 8 km south of Bentota on the island’s scenic west coast, our resort offers an idyllic tropical escape with direct beachfront access and world-class amenities.",
         "ImageFullGridButtonText": "Book Your Stay",
-        "centerTitlethree": "Experience With Us",
+        "centerTitlethree": "Unforgettable Experiences",
         "centerTitleThreeDescription": "Experience the beauty of Sri Lanka with our curated experiences that showcase the best of the island's culture, nature, and adventure. Get ready to create unforgettable memories.",
-        "centerTitleThreeButtonText": "Explore More"
+        "centerTitleThreeButtonText": "Explore More",
+        "ChooseTitle": "Why Choose AIDA Queen Palace",
+        "ChooseDescription": "Experience unparalleled luxury and personalized service at AIDA Queen Palace, where every detail is designed to create unforgettable memories.",
+        "ChooseButtonText": "See More"
     },
     "DiningSection": {
         "title": "Gourmet Dining by the Sea",
@@ -60,9 +63,7 @@
             }
         }
     },
-        "ExperienceSection": {
-        "HeadingTitle": "About | Village Headman’s Bungalow",
-        "HeadingDescription": "The Village Headman’s Bungalow, affectionately known as VHB, carries the legacy of a remarkable man — Mr. Johannas Abenayake, a respected Senior Village Headman from 1926 to 1956. His service to the community was honored in 1954 with a medal from Her Majesty Queen Elizabeth.",
+    "ExperienceSection": {
         "HeroTitle": "Experience",
         "HeroDescription": "Discover the soul of Sri Lanka through immersive experiences crafted just for you",
         "heroButtonText": "Book Inquiry",
@@ -102,5 +103,41 @@
         "experianseTitleTwelve": "Brief garden",
         "experianseTitleTwelveDescription": "A sanctuary of tranquility and botanical wonders. Once a rubber plantation, this enchanting estate hasbeen transformed into a masterpiece of landscape architecture, a testament to the visionary artistry ofBevis Bawa. As you step through the garden's gates, a sense of serenity washes over you, the gentle rustling of leavesand the chirping of birds creating a symphony of nature's embrace. Meandering pathways, adorned withvibrant blooms and verdant foliage, beckon you to explore the garden's hidden treasures.",
         "experianseTitleTwelveLocation": "Bentota, Sri Lanka"
+    },
+    "ChooseUsSection": {
+        "cards": {
+            "location": {
+                "title": "Pristine Beachfront Location",
+                "description": "Situated on a tranquil stretch of Induruwa Beach with golden sands and safe swimming waters, offering direct beachfront access away from crowds."
+            },
+            "accommodations": {
+                "title": "Luxury Accommodations",
+                "description": "Elegant sea-view rooms and private villas with contemporary Sri Lankan décor, all featuring air-conditioning, free Wi-Fi, and ocean or garden views."
+            },
+            "dining": {
+                "title": "Exceptional Dining",
+                "description": "Beachfront restaurant serving fresh seafood and international cuisine, plus an in-house coffee shop brewing Ceylon's finest coffee."
+            }
+        }
+    },
+    "ExperienceCardSection": {
+        "cards": {
+            "beachfront": {
+                "title": "Beachfront Bliss",
+                "description": "Relax on soft golden sands with calm, safe swimming waters protected by offshore reefs."
+            },
+            "pool": {
+                "title": "Infinity Pool",
+                "description": "Sparkling outdoor infinity pool with panoramic ocean views and poolside service."
+            },
+            "coffee": {
+                "title": "Coffee Culture",
+                "description": "The Coastal Bean Café serving Ceylon's finest coffee with coastal vibes and light bites."
+            },
+            "turtle": {
+                "title": "Turtle Conservation",
+                "description": "Participate in turtle releases and learn about conservation at nearby hatcheries."
+            }
+        }
     }
 }

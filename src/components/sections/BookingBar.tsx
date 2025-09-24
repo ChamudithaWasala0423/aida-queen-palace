@@ -19,7 +19,7 @@ const BookingBar = () => {
   const router = useRouter();
   const t = useTranslations("BookingBar");
   return (
-    <div className="w-full mt-72 flex flex-col p-6">
+    <div className="w-full mt-48 flex flex-col p-6">
       <MaxWidthWrapper className="flex flex-col items-center justify-center">
         <div className="hidden lg:flex items-center w-full md:w-[70%] mx-auto mb-2">
           <Image
