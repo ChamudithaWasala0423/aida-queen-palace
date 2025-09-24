@@ -27,7 +27,7 @@ export default function ScrollBookNow() {
         role="button"
         className="
           pointer-events-auto relative inline-flex items-center justify-center select-none
-          overflow-hidden rounded-full px-6 py-3 sm:px-8 sm:py-3 min-h-12 min-w-[9rem]
+          overflow-hidden rounded-lg px-6 py-3 sm:px-8 sm:py-3 min-h-12 min-w-[9rem]
           text-white text-base font-semibold tracking-wide
           border border-white/20
           bg-black/30 backdrop-blur-xl

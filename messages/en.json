@@ -143,7 +143,7 @@
             }
         }
     },
-      "Footer": {
+    "Footer": {
         "LogoAlt": "AIDA Queen Palace Logo",
         "ContactButton": "Contact us",
         "CompanyTitle": "Company",
@@ -169,5 +169,19 @@
         "ConceptBy": "Concept By",
         "DevelopedBy": "Developed By",
         "LeafAlt": "ayurvedic icon"
+    },
+    "AboutPage": {
+        "HeadingTitle": "About | AIDA Queen Palace",
+        "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
+        "HeroImageTitle": "About Us",
+        "HeroImageDescription": "Discover the beauty and luxury of AIDA Queen Palace, a beachfront paradise in Sri Lanka. Experience stunning ocean views, elegant accommodations, and exceptional service for an unforgettable stay. Book your dream getaway today!",
+        "HeroImageButtonText": "Contact Us",
+        "AboutResortTitle": " Our Story",
+        "AboutResortDescription": "AIDA Queen Palace is more than just a luxury hotel near Bentota – it’s a testament to Sri Lankan hospitality and the legacy of the AIDA brand. As part of the renowned AIDA Group (a leader in Sri Lanka’s tourism and wellness industry), our resort carries forward a tradition of excellence in every detail. We opened our doors with a singular vision: to offer travelers an oasis of comfort and authenticity on one of Sri Lanka’s most beautiful beaches.",
+        "AboutResortButtonText": "Book Now",
+        "ChairmanTitle": "About Our Chairman",
+        "ChairmanDescription": "Founded in 1975 by the visionary entrepreneur Deshabandu Deshamanya Nissanka Weerasena, the AIDA Group of Companies has emerged as a beacon of success both locally and internationally. Rooted in a legacy of excellence in the gem and jewellery business, Mr. Weerasena embarked on a remarkable journey, single-handedly crafting the AIDA brand into a symbol of quality and innovation. The genesis of AIDA finds its inspiration in the world of German opera, a nod to the invaluable support extended by German tourists during the nascent stages of the business. Fuelled by a relentless spirit and an unwavering commitment to excellence, Mr. Weerasena forged enduring relationships and cultivated a sterling reputation within the industry. Drawing from the rich tapestry of experience in the gem and jewellery trade, AIDA swiftly diversified its portfolio, transcending boundaries and venturing into new horizons. From the glittering world of gems, the AIDA brand seamlessly expanded into the vibrant realms of tourism, gastronomy, textiles, and the rejuvenating sanctuary of Ayurvedic hospitality.",
+        "ChairmanButtonText": "Contact us"
     }
 }

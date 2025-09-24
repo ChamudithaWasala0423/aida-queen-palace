@@ -42,7 +42,7 @@ const HeroImage = ({
             {description}
           </p>
           <Link href={uri}>
-            <Button size="lg" className="bg-slate-50 hover:bg-slate-100 text-slate-900 mt-6 rounded-full">
+            <Button size="lg" className="bg-slate-50 hover:bg-slate-100 text-slate-900 mt-6">
               {buttonText}
             </Button>
           </Link>
