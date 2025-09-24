@@ -126,11 +126,11 @@ export default function NavBar() {
             : "-translate-y-full opacity-0 pointer-events-none"
         )}
       >
-        <div className="hidden xl:block m-2 rounded-lg w-[80%] 2xl:w-[60%] bg-black/95 backdrop-blur border-1  shadow-lg border-rose-700">
+        <div className="hidden xl:block m-2 rounded-lg w-[80%] 2xl:w-[60%] bg-black/95 backdrop-blur border-2  shadow-lg border-cyan-500">
           <div className="mx-auto w-full px-6">
             <div className="flex h-14  items-center justify-center gap-6">
               {/* Left items */}
-              <NavigationMenu viewport={false}>
+              <NavigationMenu viewport={false} className="z-50">
                 <NavigationMenuList className="flex space-x-4">
                   {leftItems.map((item) => {
                     if ("href" in item) {
@@ -140,7 +140,7 @@ export default function NavBar() {
                             href={item.href}
                             className={cn(
                               navigationMenuTriggerStyle(),
-                              "bg-transparent text-white hover:text-rose-700 hover:underline font-medium"
+                              "bg-transparent text-white hover:text-cyan-600 hover:underline font-medium"
                             )}
                           >
                             {item.name}
@@ -150,17 +150,17 @@ export default function NavBar() {
                     }
                     return (
                       <NavigationMenuItem key={item.name}>
-                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-rose-700 font-medium">
+                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-cyan-600 font-medium">
                           {item.name}
                         </NavigationMenuTrigger>
                         <NavigationMenuContent>
-                          <ul className="grid gap-2 p-3 w-[260px] bg-white shadow-lg rounded-xl mt-">
+                          <ul className="grid gap-2 p-3 w-[260px] bg-white shadow-lg rounded-xl mt- z-50">
                             {item.children.map((child) => (
                               <li key={child.href}>
                                 <NavigationMenuLink asChild>
                                   <Link
                                     href={child.href}
-                                    className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent hover:text-orange-600 transition"
+                                    className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent hover:text-cyan-600 transition"
                                   >
                                     {child.name}
                                   </Link>
@@ -175,19 +175,8 @@ export default function NavBar() {
                 </NavigationMenuList>
               </NavigationMenu>
 
-              {/* Center logo */}
-              {/* <Link href="/" className="shrink-0 flex items-center">
-                <Image
-                  src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758117037/aida-hotel-logo_exd8jx.png"
-                  alt="Logo"
-                  width={200}
-                  height={60}
-                  className="h-14 w-auto"
-                />
-              </Link> */}
-
-              {/* Right items */}
-              <NavigationMenu viewport={false}>
+            {/* Right items */}
+              <NavigationMenu viewport={false} className="z-50">
                 <NavigationMenuList className="flex space-x-4">
                   {rightItems.map((item) => {
                     if ("href" in item) {
@@ -197,7 +186,7 @@ export default function NavBar() {
                             href={item.href}
                             className={cn(
                               navigationMenuTriggerStyle(),
-                              "bg-transparent text-white hover:text-rose-700 hover:underline font-medium"
+                              "bg-transparent text-white hover:text-cyan-600 hover:underline font-medium"
                             )}
                           >
                             {item.name}
@@ -207,17 +196,17 @@ export default function NavBar() {
                     }
                     return (
                       <NavigationMenuItem key={item.name}>
-                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-rose-700 font-medium">
+                        <NavigationMenuTrigger className="bg-transparent text-white hover:text-cyan-600 font-medium">
                           {item.name}
                         </NavigationMenuTrigger>
                         <NavigationMenuContent>
-                          <ul className="grid gap-2 p-3 w-[260px] bg-white shadow-lg rounded-xl">
+                          <ul className="grid gap-2 p-3 w-[260px] bg-white shadow-lg rounded-xl z-50">
                             {item.children.map((child) => (
                               <li key={child.href}>
                                 <NavigationMenuLink asChild>
                                   <Link
                                     href={child.href}
-                                    className="block rounded-md px-3 py-2 text-sm text-white bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent hover:text-orange-600 transition"
+                                    className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent hover:text-cyan-600 transition"
                                   >
                                     {child.name}
                                   </Link>
@@ -286,7 +275,7 @@ export default function NavBar() {
             </DropdownMenuContent>
           </DropdownMenu>
           <Link href="https://booking.aidaayurveda.com" target="_blank">
-            <Button size="lg" className="ml-4 rounded-full text-white bg-rose-700 hover:bg-rose-700 font-medium">
+            <Button size="lg" className="ml-4 rounded-full text-white bg-cyan-600 hover:bg-cyan-700 font-medium">
               {t("BookNow")}
             </Button>
           </Link>
@@ -294,10 +283,10 @@ export default function NavBar() {
       </div>
 
       {/* Desktop nav with centered logo and items around */}
-      <nav className="hidden xl:block bg-black px-6 py-3 text-white border-b-3 border-rose-700">
+      <nav className="hidden xl:block bg-black px-6 py-3 text-white border-b-3 border-cyan-500">
         <div className="flex items-center justify-center gap-6">
           {/* Left items */}
-          <NavigationMenu viewport={false}>
+          <NavigationMenu viewport={false} className="z-50">
             <NavigationMenuList className="flex space-x-6">
               {leftItems.map((item) => {
                 if ("href" in item) {
@@ -327,7 +316,7 @@ export default function NavBar() {
                             <NavigationMenuLink asChild>
                               <Link
                                 href={child.href}
-                                className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent data-[active=true]:bg-transparent hover:text-orange-600 transition"
+                                className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent data-[active=true]:bg-transparent hover:text-cyan-600 transition"
                               >
                                 {child.name}
                               </Link>
@@ -342,7 +331,7 @@ export default function NavBar() {
             </NavigationMenuList>
           </NavigationMenu>
           {/* Right items */}
-          <NavigationMenu viewport={false}>
+          <NavigationMenu viewport={false} className="z-50">
             <NavigationMenuList className="flex space-x-6">
               {rightItems.map((item) => {
                 if ("href" in item) {
@@ -366,13 +355,13 @@ export default function NavBar() {
                       {item.name}
                     </NavigationMenuTrigger>
                     <NavigationMenuContent>
-                      <ul className="grid gap-2 p-4 w-[240px] bg-white shadow-lg rounded-xl">
+                      <ul className="grid gap-2 p-4 w-[240px] bg-white shadow-lg rounded-xl z-50">
                         {item.children.map((child) => (
                           <li key={child.href}>
                             <NavigationMenuLink asChild>
                               <Link
                                 href={child.href}
-                                className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent data-[active=true]:bg-transparent hover:text-orange-600 transition"
+                                className="block rounded-md px-3 py-2 text-sm text-gray-700 bg-transparent hover:bg-transparent focus:bg-transparent active:bg-transparent data-[active=true]:bg-transparent hover:text-cyan-600 transition"
                               >
                                 {child.name}
                               </Link>
@@ -390,7 +379,7 @@ export default function NavBar() {
       </nav>
 
       {/* Mobile nav trigger */}
-      <div className="flex items-center justify-between bg-rose-700 px-4 py-3 text-white xl:hidden">
+      <div className="flex items-center justify-between bg-cyan-600 px-4 py-3 text-white xl:hidden">
         <Button
           variant="ghost"
           size="icon"
@@ -410,7 +399,7 @@ export default function NavBar() {
         )}
       >
         {/* Mobile top with centered logo */}
-        <div className="flex items-center justify-between p-4 border-b border-rose-700">
+        <div className="flex items-center justify-between p-4 border-b border-cyan-500">
           <div className="flex-1 text-center">
             <Link href="/" className="inline-block">
               <Image
@@ -426,7 +415,7 @@ export default function NavBar() {
             variant="ghost"
             size="icon"
             onClick={() => setMobileMenuOpen(false)}
-            className="text-rose-700"
+            className="text-cyan-700"
           >
             <X className="h-6 w-6" />
             <span className="sr-only">Close menu</span>
@@ -442,7 +431,7 @@ export default function NavBar() {
                   <li key={item.href}>
                     <Link
                       href={item.href}
-                      className="block rounded-lg px-3 py-3 text-lg font-medium text-rose-700 hover:bg-rose-50"
+                      className="block rounded-lg px-3 py-3 text-lg font-medium text-cyan-600 hover:bg-cyan-50"
                       onClick={() => setMobileMenuOpen(false)}
                     >
                       {item.name}
@@ -454,7 +443,7 @@ export default function NavBar() {
               return (
                 <li key={item.name}>
                   <button
-                    className="flex w-full items-center justify-between rounded-lg px-3 py-3 text-lg font-medium text-rose-600 hover:bg-rose-50"
+                    className="flex w-full items-center justify-between rounded-lg px-3 py-3 text-lg font-medium text-cyan-600 hover:bg-cyan-50"
                     onClick={() => toggleMobileSection(item.name)}
                   >
                     <span>{item.name}</span>
@@ -471,12 +460,12 @@ export default function NavBar() {
                       open ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
                     )}
                   >
-                    <ul className="mt-1 space-y-1 rounded-md bg-rose-50 p-2">
+                    <ul className="mt-1 space-y-1 rounded-md bg-cyan-50 p-2">
                       {item.children.map((child) => (
                         <li key={child.href}>
                           <Link
                             href={child.href}
-                            className="block rounded-md px-3 py-2 text-base text-rose-700 hover:bg-white"
+                            className="block rounded-md px-3 py-2 text-base text-cyan-600 hover:bg-white"
                             onClick={() => setMobileMenuOpen(false)}
                           >
                             {child.name}
@@ -495,7 +484,7 @@ export default function NavBar() {
         <div className="p-6">
           <Link href="https://booking.aidaayurveda.com" target="_blank">
             <Button
-              className="w-full bg-rose-600 text-white font-medium hover:bg-rose-700 rounded-full py-3"
+              className="w-full bg-cyan-600 text-white font-medium hover:bg-cyan-700 rounded-full py-3"
               onClick={() => setMobileMenuOpen(false)}
             >
               {t("BookNow")}

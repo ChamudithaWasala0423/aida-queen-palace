@@ -13,5 +13,27 @@
         "aidaHotelBentota": "AIDA Hotel Bentota",
         "DiscoverMore": "Discover More",
         "Blog": "Blog"
+    },
+        "BookingBar": {
+        "Tagline": "Best Guaranteed",
+        "IconAlt": "best rated icon",
+        "SelectRoomPlaceholder": "Select a Room",
+        "RoomsLabel": "Rooms",
+        "RoomOption": {
+            "DeluxeDoubleSuiteOne": "Deluxe Double Suite Room One",
+            "DeluxeDoubleSuiteTwo": "Deluxe Double Suite Room Two",
+            "SuperiorDoubleRoomOne": "Superior Double Room One",
+            "SuperiorDoubleRoomTwo": "Superior Double Room Two",
+            "SuperiorTripleRoom": "Superior Triple Room"
+        },
+        "Adults": "Adults",
+        "Children": "Children",
+        "BookNow": "Book Now",
+        "BookNowAria": "Book now"
+    },
+    "HomePage": {
+        "HeadingTitle": " AIDA Queen Palace | Luxury Beach Resort in Induruwa, Sri Lanka",
+        "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels"
     }
 }
