@@ -233,7 +233,7 @@
         "HeroImageDescription": "At AIDA Queen Palace, our accommodation is designed to envelop you in luxury and island tranquility. Choose from an array of elegant rooms and private villas, each thoughtfully appointed to make your stay indulgent and relaxing. All accommodations feature modern amenities – from air conditioning and plush bedding to free Wi-Fi and personal safes – ensuring you enjoy the comforts of a world-class hotel amidst the beauty of the tropics. Wake up to panoramic sea views or the sight of lush gardens right outside your window. Below are the room and suite options available at our Induruwa beachfront hotel.",
         "HeroImageButtonText": "Contact Us"
     },
-    "GalleryPage":{
+    "GalleryPage": {
         "HeadingTitle": "Gallery | AIDA Queen Palace",
         "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
         "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
@@ -241,12 +241,83 @@
         "HeroImageDescription": "Explore our stunning gallery showcasing the beauty and luxury of AIDA Queen Palace, your perfect beachfront escape in Sri Lanka. From breathtaking ocean views and elegant accommodations to vibrant local culture and unforgettable experiences, our gallery captures the essence of what makes AIDA Queen Palace a truly special destination. Whether you're dreaming of your next getaway or reminiscing about a past visit, our collection of images invites you to immerse yourself in the allure of this tropical paradise.",
         "HeroImageButtonText": "Book Now"
     },
-    "BlogPage":{
+    "BlogPage": {
         "HeadingTitle": "Blog | AIDA Queen Palace",
         "HeadingDescription": "Stay updated with the latest news, travel tips, and insights from AIDA Queen Palace, your luxury beachfront resort in Induruwa, Sri Lanka. Explore our blog for inspiring stories, local culture, and exclusive offers to enhance your stay.",
         "HeadingKeywords": "AIDA Queen Palace Blog, Luxury Beach Resort News, Travel Tips Sri Lanka, Induruwa Resort Insights, Beachfront Accommodation Updates, Local Culture Sri Lanka, Exclusive Offers AIDA Queen Palace",
         "HeroImageTitle": "Blog",
         "HeroImageDescription": "Welcome to the AIDA Queen Palace blog, your go-to source for all things related to our luxury beachfront resort in Induruwa, Sri Lanka. Here, we share inspiring travel stories, insider tips on exploring the local culture, updates on our latest offerings, and expert advice to help you make the most of your stay with us. Whether you're planning your first visit or returning for another unforgettable experience, our blog is designed to keep you informed and inspired.",
         "HeroImageButtonText": "Contact Us"
+    },
+    "ContactUsPage": {
+        "HeadingTitle": "Contact Us | AIDA Queen Palace",
+        "HeadingDescription": "Get in touch with AIDA Queen Palace, your luxury beachfront resort in Induruwa, Sri Lanka. Whether you have questions about our accommodations, amenities, or local experiences, our team is here to assist you. Contact us today to start planning your unforgettable stay.",
+        "HeadingKeywords": "AIDA Queen Palace Contact, Luxury Beach Resort Inquiries, Induruwa Resort Assistance, Beachfront Accommodation Questions, Sri Lanka Travel Support, Local Experience Information",
+        "HeroImageTitle": "Contact Us",
+        "HeroImageDescription": "We're here to help! Whether you have questions about our accommodations, amenities, or local experiences, our dedicated team at AIDA Queen Palace is ready to assist you. Reach out to us via phone, email, or our online contact form, and we'll ensure your inquiries are addressed promptly. We look forward to welcoming you to our luxury beachfront resort in Induruwa, Sri Lanka.",
+        "HeroImageButtonText": "Book Now"
+    },
+    "ContactUsForm": {
+        "sendUsMessage": "Send Us a Message",
+        "helpText": "Have questions about your reservation or our amenities? We're here to help.",
+        "nameLabel": "Name (First & Last Name)",
+        "namePlaceholder": "Enter your name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email",
+        "phoneLabel": "Phone number",
+        "phonePlaceholder": "Enter your phone or WhatsApp number",
+        "subjectLabel": "Subject",
+        "subjectPlaceholder": "Reservation Inquiry",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Please provide details about your inquiry...",
+        "sending": "Sending...",
+        "sendMessage": "Send Message",
+        "captchaError": "Please complete the CAPTCHA.",
+        "emailSuccess": "Message sent successfully!",
+        "emailFail": "Failed to send message. Please try again.",
+        "emailError": "An error occurred while sending the message.",
+        "formRefError": "Form reference is not available.",
+        "publicKeyError": "EmailJS public key is missing. Please check your environment variables."
+    },
+    "ContactUsInfo": {
+        "hotelInformation": "Hotel Information",
+        "addressLabel": "Address",
+        "addressValue": " 12/A, Mangala Mawatha, Bentota, Sri Lanka",
+        "phoneLabel": "Phone",
+        "phoneValue": "+94 77 005 1034",
+        "phoneAvailable": "Available 24/7 for reservations and inquiries",
+        "emailLabel": "Email",
+        "emailValue": "aida1@sltnet.lk",
+        "emailResponse": "We'll respond within 24 hours",
+        "checkinoutTitle": "Check-in & Check-out",
+        "checkin": "Check-in: 2:00 PM",
+        "checkout": "Check-out: 12:00 PM",
+        "parkingTitle": "Parking",
+        "parkingAvailable": "Valet parking available",
+        "conciergeTitle": "Security & Concierge",
+        "conciergeAvailable": "CCTV security 24/7",
+        "conciergeLocation": "Located in the main lobby"
+    },
+    "ThankYouPage": {
+        "ThankyouPageHeading": "Thank You for Contacting Us!",
+        "ThankyouPageDescription": "Thank you for reaching out to AIDA Queen Palace. We appreciate your interest and will get back to you shortly. In the meantime, feel free to explore our website for more information about our luxury beachfront resort in Induruwa, Sri Lanka.",
+        "ThankyouPageKeywords": "AIDA Queen Palace Thank You, Luxury Beach Resort Contact, Induruwa Resort Response, Beachfront Accommodation Inquiry, Sri Lanka Travel Follow-Up",
+        "HeadingDescription": "We appreciate you reaching out to AIDA Ayurveda. Your message has been received, and our team will get back to you shortly. We look forward to assisting you with your inquiry and hope to welcome you to our  hotel soon.",
+        "returnHome": "Back to Home",
+        "title": "Thank You!",
+        "successMessage": "Your message has been successfully sent.",
+        "appreciation": "We appreciate you contacting us. Our team will review your message and get back to you within 24-48 hours.",
+        "referenceId": "Reference ID",
+        "sendAnother": "Send Another Message"
+    },
+    "PrivacyPolicyPage":{
+        "HeadingTitle": "Privacy Policy | AIDA Queen Palace",
+        "HeadingDescription": "Read the privacy policy of AIDA Queen Palace, your luxury beachfront resort in Induruwa, Sri Lanka. Learn how we protect your personal information and ensure your privacy during your stay with us.",
+        "HeadingKeywords": "AIDA Queen Palace Privacy Policy, Luxury Beach Resort Data Protection, Induruwa Resort Personal Information, Beachfront Accommodation Privacy, Sri Lanka Travel Security"
+    },
+    "CookiePolicyPage":{
+        "HeadingTitle": "Cookie Policy | AIDA Queen Palace",
+        "HeadingDescription": "Learn about the cookie policy of AIDA Queen Palace, your luxury beachfront resort in Induruwa, Sri Lanka. Understand how we use cookies to enhance your experience on our website and ensure your privacy.",
+        "HeadingKeywords": "AIDA Queen Palace Cookie Policy, Luxury Beach Resort Cookies, Induruwa Resort Website Experience, Beachfront Accommodation Privacy, Sri Lanka Travel Data"
     }
 }
