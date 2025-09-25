@@ -15,7 +15,7 @@
         "Blog": "Blog"
     },
     "BookingBar": {
-        "Tagline": "Best Guaranteed",
+        "Tagline": "Best Rate Guaranteed",
         "IconAlt": "best rated icon",
         "SelectRoomPlaceholder": "Select a Room",
         "RoomsLabel": "Rooms",
@@ -215,15 +215,17 @@
         "facilityPool": "Pool",
         "facilityDesk": "Desk",
         "facilityCozySittingArea": "Featuring a cozy sitting area",
-        "facilityEquippedKitchen": "Fully equipped kitchen",
+        "facilityEquippedKitchen": "Private Balcony",
         "facilityHotWater": "Hot water",
-        "facilityTileFloor": "Titanium flooring",
+        "facilityTileFloor": "Tile flooring",
         "facilityTowels": "Towels",
-        "facilityKaraoke": "Offer a karaoke space",
+        "facilityKaraoke": "Beach Access",
         "facilitySocket": "Socket near the bed",
         "facilityClothesRack": "Clothes rack",
         "knowMoreButton": "Know More",
-        "bookNowButton": "Book Now"
+        "bookNowButton": "Book Now",
+        "facilityBeach": "Beach Access",
+        "facilityBalcony": "Private Balcony"
     },
     "ExperiencePage": {
         "HeadingTitle": "Experience | AIDA Queen Palace",
@@ -284,7 +286,7 @@
         "addressLabel": "Address",
         "addressValue": " 92H6+922, Induruwa 80500, Sri Lanka",
         "phoneLabel": "Phone",
-        "phoneValue": "+94 70 363 7835",
+        "phoneValue": "+94 70 487 1510",
         "phoneAvailable": "Available 24/7 for reservations and inquiries",
         "emailLabel": "Email",
         "emailValue": "aidaqueenpalace@gmail.com",

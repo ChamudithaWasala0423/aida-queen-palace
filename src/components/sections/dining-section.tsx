@@ -56,7 +56,7 @@ const DiningSection = () => {
           <div
             className="h-96 lg:h-[500px] bg-cover bg-center rounded-lg"
             style={{
-              backgroundImage: `url('https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758691909/beachfront-restaurant-dining-with-ocean-view-and-c_px13wy.jpg')`,
+              backgroundImage: `url('https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758794553/MKN05613_ixbkes.jpg')`,
             }}
           />
         </div>

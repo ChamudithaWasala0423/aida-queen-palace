@@ -10,6 +10,7 @@ import Footer from "@/components/general/Footer";
 import { Toaster } from "@/components/ui/sonner";
 import TermlyCMP from "@/components/general/TermlyCMP";
 import { CookieIcon } from "lucide-react";
+import WhatsAppLive from "@/components/general/WhatsAppLive";
 
 const monserrat = Montserrat({
   variable: "--font-montserrat",
@@ -59,6 +60,7 @@ export default async function LocaleLayout({
             </a>
           </div>
           <Footer />
+          <WhatsAppLive />  
         </NextIntlClientProvider>
       </body>
     </html>

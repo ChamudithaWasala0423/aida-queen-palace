@@ -10,13 +10,12 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
-import { RiHome6Line } from "react-icons/ri";
 import { MdBalcony, MdPool } from "react-icons/md";
-import { PiFlowerTulipBold } from "react-icons/pi";
 import { TbAirConditioning } from "react-icons/tb";
 import { LuBath } from "react-icons/lu";
 import { Check } from "lucide-react";
 import MaxWidthWrapper from "../general/MaxWidthWrapper";
+import { TbBeach } from "react-icons/tb";
 
 const images = [
   "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607680/4_rdw5y5.webp",
@@ -60,9 +59,8 @@ const imagesFive = [
 ];
 
 const facilities = [
-  { icon: RiHome6Line, label: "facilityKitchen" },
-  { icon: MdBalcony, label: "facilitySittingArea" },
-  { icon: PiFlowerTulipBold, label: "facilityGarden" },
+  { icon: TbBeach, label: "facilityBeach" },
+  { icon: MdBalcony, label: "facilityBalcony" },
   { icon: TbAirConditioning, label: "facilityAC" },
   { icon: LuBath, label: "facilityBath" },
   { icon: MdPool, label: "facilityPool" },

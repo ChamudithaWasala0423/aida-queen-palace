@@ -3,7 +3,7 @@ import Image from "next/image";
 const WhatsAppLive = () => {
   return (
     <a
-      href="https://wa.link/0aq4ns"
+      href="https://wa.link/xrdrru"
       target="_blank"
       rel="noreferrer noopener"
       className="fixed bottom-4 right-4 z-50 inline-flex items-center justify-center w-14 h-14 rounded-full bg-[#25d366]"
