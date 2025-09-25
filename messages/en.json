@@ -150,6 +150,32 @@
             }
         }
     },
+    "CafeSection": {
+        "title": "The Coastal Bean Café",
+        "description": "Fuel your days of leisure with a perfect cup from our in-house coffee shop, the heart of our resort's social scene. Adjacent to the lobby and open to the sea breeze, this cozy café brings you Ceylon's finest coffee brewed with passion in Induruwa's coastal style.",
+        "features": {
+            "premiumCoffee": {
+                "title": "Premium Ceylon Coffee",
+                "description": "Rich espresso and creamy lattes crafted by skilled baristas using locally sourced beans"
+            },
+            "pastries": {
+                "title": "Fresh Pastries & Sweets",
+                "description": "Freshly baked pastries and traditional Sri Lankan sweets to pair with your coffee"
+            },
+            "atmosphere": {
+                "title": "Relaxed Atmosphere",
+                "description": "Teakwood tables, comfortable rattan chairs, and an eclectic collection of books and games"
+            },
+            "lightBites": {
+                "title": "Light Bites & Treats",
+                "description": "Gourmet sandwiches, fresh salads, and homemade ice cream for any time of day"
+            }
+        },
+        "highlight": {
+            "title": "Perfect for Coffee Connoisseurs",
+            "description": "Whether you're starting your morning with a rich espresso, enjoying a mid-day iced coffee, or winding down with a pot of Ceylon tea, our coffee shop offers a delightful experience infused with coastal vibes and the sweet escape of Induruwa's charm."
+        }
+    },
     "Footer": {
         "LogoAlt": "AIDA Queen Palace Logo",
         "ContactButton": "Contact us",

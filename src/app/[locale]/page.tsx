@@ -1,4 +1,4 @@
-'use client';
+"use client";
 import Heading from "@/components/general/Heading";
 import CenterTitle from "@/components/sections/centerTitle";
 import ChooseUs from "@/components/sections/choose-us";
@@ -12,11 +12,12 @@ import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
 import { getPopupBanner } from "../../../sanity/sanity.query";
 import PopupBanner from "@/components/general/pop-up-banner";
-import type { PopupBannerData } from "@/components/general/pop-up-banner"; 
+import type { PopupBannerData } from "@/components/general/pop-up-banner";
+import CafeSection from "@/components/sections/cafe-section";
 
 export default function Home() {
   const t = useTranslations("HomePage");
-     const [showPopup, setShowPopup] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
   const [bannerData, setBannerData] = useState<PopupBannerData | null>(null);
 
   useEffect(() => {
@@ -68,7 +69,8 @@ export default function Home() {
         <ExperianceCard />
         <ExperienceCardsCarousel />
       </div>
-      <div className="py-24 bg-slate-100">
+      <CafeSection />
+      <div className="py-24">
         <CenterTitle
           title={`${t("galleryTitle")}`}
           description={t("galleryDescription")}
@@ -77,7 +79,9 @@ export default function Home() {
         />
         <GallerySection />
       </div>
-          {showPopup && bannerData && <PopupBanner onClose={() => setShowPopup(false)} banner={bannerData} />}
+      {showPopup && bannerData && (
+        <PopupBanner onClose={() => setShowPopup(false)} banner={bannerData} />
+      )}
     </>
   );
 }
