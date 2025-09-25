@@ -32,7 +32,7 @@ const Footer = () => {
           <div className="mb-4">
             <Link href="/">
               <Image
-                src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758026594/aida-hotel-logo_g9vdxd.png"
+                src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758785855/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
                 alt={t("LogoAlt")}
                 width={200}
                 height={200}

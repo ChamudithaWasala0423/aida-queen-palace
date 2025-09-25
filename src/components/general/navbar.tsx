@@ -230,7 +230,7 @@ export default function NavBar() {
         {/* Left side: Google reviews */}
         <div className="absolute left-4 top-1/2 -translate-y-1/2 hidden md:block">
           <Link
-            href="https://search.google.com/local/writereview?placeid=ChIJyVOoo54u4joRv1EipPoN8OM"
+            href="https://search.google.com/local/writereview?placeid=ChIJsaqVpkAr4joRZ4NKTz0SSDU"
             target="_blank"
           >
             <Image
@@ -245,7 +245,7 @@ export default function NavBar() {
         {/* Center logo */}
         <Link href="/" className="inline-block">
           <Image
-            src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758026594/aida-hotel-logo_g9vdxd.png"
+            src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758785855/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
             alt="Logo"
             width={220}
             height={200}
@@ -403,7 +403,7 @@ export default function NavBar() {
           <div className="flex-1 text-center">
             <Link href="/" className="inline-block">
               <Image
-                src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758026594/aida-hotel-logo_g9vdxd.png"
+                src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758785855/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
                 alt="Logo"
                 width={200}
                 height={200}
