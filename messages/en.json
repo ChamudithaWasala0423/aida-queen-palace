@@ -66,6 +66,13 @@
             }
         }
     },
+    "ExperienceCategories": {
+        "adventure": "Adventure",
+        "relaxation": "Relaxation",
+        "sightseeing": "Sightseeing",
+        "wildlife": "Wildlife",
+        "tagline": "@AIDA Queen Palace"
+    },
     "ExperienceSection": {
         "HeroTitle": "Experience",
         "HeroDescription": "Discover the soul of Sri Lanka through immersive experiences crafted just for you",
@@ -217,5 +224,29 @@
         "facilityClothesRack": "Clothes rack",
         "knowMoreButton": "Know More",
         "bookNowButton": "Book Now"
+    },
+    "ExperiencePage": {
+        "HeadingTitle": "Experience | AIDA Queen Palace",
+        "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
+        "HeroImageTitle": "Experience",
+        "HeroImageDescription": "At AIDA Queen Palace, our accommodation is designed to envelop you in luxury and island tranquility. Choose from an array of elegant rooms and private villas, each thoughtfully appointed to make your stay indulgent and relaxing. All accommodations feature modern amenities – from air conditioning and plush bedding to free Wi-Fi and personal safes – ensuring you enjoy the comforts of a world-class hotel amidst the beauty of the tropics. Wake up to panoramic sea views or the sight of lush gardens right outside your window. Below are the room and suite options available at our Induruwa beachfront hotel.",
+        "HeroImageButtonText": "Contact Us"
+    },
+    "GalleryPage":{
+        "HeadingTitle": "Gallery | AIDA Queen Palace",
+        "HeadingDescription": "Book your stay at AIDA Queen Palace, a luxury beachfront resort in Induruwa, Sri Lanka – offering ocean-view rooms, pool, dining, in-house coffee shop, and 5-star service near Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxury Beach Resort, Induruwa, Sri Lanka, Ocean-View Rooms, Beachfront Accommodation, Pool, Dining, In-House Coffee Shop, 5-Star Service, Bentota Hotels",
+        "HeroImageTitle": "Gallery",
+        "HeroImageDescription": "Explore our stunning gallery showcasing the beauty and luxury of AIDA Queen Palace, your perfect beachfront escape in Sri Lanka. From breathtaking ocean views and elegant accommodations to vibrant local culture and unforgettable experiences, our gallery captures the essence of what makes AIDA Queen Palace a truly special destination. Whether you're dreaming of your next getaway or reminiscing about a past visit, our collection of images invites you to immerse yourself in the allure of this tropical paradise.",
+        "HeroImageButtonText": "Book Now"
+    },
+    "BlogPage":{
+        "HeadingTitle": "Blog | AIDA Queen Palace",
+        "HeadingDescription": "Stay updated with the latest news, travel tips, and insights from AIDA Queen Palace, your luxury beachfront resort in Induruwa, Sri Lanka. Explore our blog for inspiring stories, local culture, and exclusive offers to enhance your stay.",
+        "HeadingKeywords": "AIDA Queen Palace Blog, Luxury Beach Resort News, Travel Tips Sri Lanka, Induruwa Resort Insights, Beachfront Accommodation Updates, Local Culture Sri Lanka, Exclusive Offers AIDA Queen Palace",
+        "HeroImageTitle": "Blog",
+        "HeroImageDescription": "Welcome to the AIDA Queen Palace blog, your go-to source for all things related to our luxury beachfront resort in Induruwa, Sri Lanka. Here, we share inspiring travel stories, insider tips on exploring the local culture, updates on our latest offerings, and expert advice to help you make the most of your stay with us. Whether you're planning your first visit or returning for another unforgettable experience, our blog is designed to keep you informed and inspired.",
+        "HeroImageButtonText": "Contact Us"
     }
 }
