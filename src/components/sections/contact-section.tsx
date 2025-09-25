@@ -252,7 +252,7 @@ const ContactSection = () => {
           </div>
           <div className="border-3 border-cyan-50 shadow-none rounded-lg overflow-hidden  h-[300px] md:h-[350px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.762944070319!2d79.99560777447999!3d6.424496124306999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae22e9ea3a853c9%3A0xe3f00dfaa42251bf!2sAida%20Hotel%20Bentota!5e0!3m2!1sen!2slk!4v1729015706004!5m2!1sen!2slk"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.1210418345563!2d80.0074876758163!3d6.3783728248311435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae22b40a695aab1%3A0x3548123d4f4a8367!2sThe%20Coffee%20Shop%20by%20AIDA%20Group!5e0!3m2!1sen!2slk!4v1758784605221!5m2!1sen!2slk"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -266,7 +266,7 @@ const ContactSection = () => {
         </div>
       </div>
       <div className="mt-24 grid grid-cols-1 md:grid-cols-3 gap-8">
-        <div className="bg-[#FCF2EB]  rounded-lg p-6 text-center">
+        <div className="bg-cyan-50  rounded-lg p-6 text-center">
           <h3 className="text-2xl font-semibold mb-3">
             {tInfo("checkinoutTitle")}
           </h3>
@@ -276,13 +276,13 @@ const ContactSection = () => {
             {tInfo("checkout")}
           </p>
         </div>
-        <div className="bg-[#FCF2EB]  rounded-lg p-6 text-center">
+        <div className="bg-cyan-50  rounded-lg p-6 text-center">
           <h3 className="text-2xl font-semibold mb-3">
             {tInfo("parkingTitle")}
           </h3>
           <p className="text-muted-foreground">{tInfo("parkingAvailable")}</p>
         </div>
-        <div className="bg-[#FCF2EB]  rounded-lg p-6 text-center">
+        <div className="bg-cyan-50  rounded-lg p-6 text-center">
           <h3 className="text-2xl font-semibold mb-3">
             {tInfo("conciergeTitle")}
           </h3>
@@ -298,4 +298,3 @@ const ContactSection = () => {
 };
 
 export default ContactSection;
-
