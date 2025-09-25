@@ -1,0 +1,323 @@
+{
+    "Navigation": {
+        "managebooking": "Bewerten Sie uns jetzt",
+        "home": "Startseite",
+        "aboutUs": "Über uns",
+        "Accommodation": "Unterkunft",
+        "Experience": "Erlebnis",
+        "Gallery": "Galerie",
+        "contact": "Kontakt",
+        "BookNow": "Jetzt buchen",
+        "ourCollections": "Unsere Sammlungen",
+        "aidaAyurveda": "AIDA Ayurveda",
+        "aidaHotelBentota": "AIDA Hotel Bentota",
+        "DiscoverMore": "Mehr entdecken",
+        "Blog": "Blog"
+    },
+    "BookingBar": {
+        "Tagline": "Bestpreis garantiert",
+        "IconAlt": "Bestbewertetes Symbol",
+        "SelectRoomPlaceholder": "Zimmer auswählen",
+        "RoomsLabel": "Zimmer",
+        "RoomOption": {
+            "DeluxeDoubleSuiteOne": "Deluxe Doppelsuite Zimmer Eins",
+            "DeluxeDoubleSuiteTwo": "Deluxe Doppelsuite Zimmer Zwei",
+            "SuperiorDoubleRoomOne": "Superior Doppelzimmer Eins",
+            "SuperiorDoubleRoomTwo": "Superior Doppelzimmer Zwei",
+            "SuperiorTripleRoom": "Superior Dreibettzimmer"
+        },
+        "Adults": "Erwachsene",
+        "Children": "Kinder",
+        "BookNow": "Jetzt buchen",
+        "BookNowAria": "Jetzt buchen"
+    },
+    "HomePage": {
+        "HeadingTitle": "AIDA Queen Palace | Luxus-Strandresort in Induruwa, Sri Lanka",
+        "HeadingDescription": "Buchen Sie Ihren Aufenthalt im AIDA Queen Palace, einem luxuriösen Strandresort in Induruwa, Sri Lanka – mit Meerblickzimmern, Pool, Restaurant, hauseigenem Café und 5-Sterne-Service in der Nähe von Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxus-Strandresort, Induruwa, Sri Lanka, Meerblickzimmer, Strandunterkunft, Pool, Restaurant, Hauseigenes Café, 5-Sterne-Service, Bentota Hotels",
+        "ImageFullGridTitle": "Willkommen im AIDA Queen Palace",
+        "ImageFullGridDescription": "AIDA Queen Palace, ein luxuriöses Strandresort in Sri Lanka, liegt an den goldenen Ufern von Induruwa, nur wenige Minuten von Bentota entfernt. 8 km südlich von Bentota an der malerischen Westküste der Insel gelegen, bietet unser Resort einen idyllischen tropischen Rückzugsort mit direktem Strandzugang und weltklasse Annehmlichkeiten.",
+        "ImageFullGridButtonText": "Buchen Sie Ihren Aufenthalt",
+        "centerTitlethree": "Unvergessliche Erlebnisse",
+        "centerTitleThreeDescription": "Erleben Sie die Schönheit Sri Lankas mit unseren kuratierten Erlebnissen, die das Beste der Inselkultur, Natur und Abenteuer zeigen. Bereiten Sie sich darauf vor, unvergessliche Erinnerungen zu schaffen.",
+        "centerTitleThreeButtonText": "Mehr erkunden",
+        "ChooseTitle": "Warum AIDA Queen Palace wählen",
+        "ChooseDescription": "Erleben Sie unvergleichlichen Luxus und persönlichen Service im AIDA Queen Palace, wo jedes Detail darauf ausgelegt ist, unvergessliche Erinnerungen zu schaffen.",
+        "ChooseButtonText": "Mehr sehen",
+        "galleryTitle": "Unsere Galerie",
+        "galleryDescription": "Erkunden Sie unsere atemberaubende Galerie, die die Schönheit und den Luxus des AIDA Queen Palace zeigt, Ihrem perfekten Strandrefugium in Sri Lanka.",
+        "galleryButtonText": "Galerie ansehen"
+    },
+    "DiningSection": {
+        "title": "Gourmet-Dining am Meer",
+        "description": "Genießen Sie die Aromen Sri Lankas und darüber hinaus in unserem charakteristischen Ocean Breeze Restaurant, nur wenige Meter vom Ufer entfernt mit ununterbrochenem Meerblick.",
+        "features": {
+            "freshSeafood": {
+                "title": "Frische lokale Meeresfrüchte",
+                "description": "Täglicher Fang von nahegelegenen Fischern, zubereitet von unseren erfahrenen Köchen"
+            },
+            "authenticCuisine": {
+                "title": "Authentische sri-lankische Küche",
+                "description": "Traditionelle Currys und Gewürze, die das reiche kulinarische Erbe der Insel feiern"
+            },
+            "privateBeachDining": {
+                "title": "Privates Strand-Dining",
+                "description": "Romantische Sonnenuntergangs-Dinner am Strand mit persönlichem Butler-Service"
+            }
+        }
+    },
+    "ExperienceCategories": {
+        "adventure": "Abenteuer",
+        "relaxation": "Entspannung",
+        "sightseeing": "Besichtigung",
+        "wildlife": "Tierwelt",
+        "tagline": "@AIDA Queen Palace"
+    },
+    "ExperienceSection": {
+        "HeroTitle": "Erlebnis",
+        "HeroDescription": "Entdecken Sie die Seele Sri Lankas durch immersive Erlebnisse, die speziell für Sie kreiert wurden",
+        "heroButtonText": "Buchungsanfrage",
+        "experianseTitleOne": "Bentota Strand",
+        "experianseTitleOneDescription": "Bentota Strand ist ein langer, sandiger Strand mit ruhigen Gewässern, die perfekt zum Schwimmen und Sonnenbaden sind. Es gibt auch eine Reihe von Wassersport-Anbietern, die Aktivitäten wie Surfen, Paddleboarding und Kajakfahren anbieten. Der Strand beherbergt auch eine Reihe von Restaurants und Bars sowie einige Hotels und Resorts.",
+        "experianseTitleOneLocation": "Bentota, Sri Lanka",
+        "experianseTitleTwo": "Aluthgama Strand",
+        "experianseTitleTwoDescription": "Aluthgama Strand ist etwas kleiner als Bentota Strand, aber gleichermaßen schön. Der Strand ist bekannt für seine starken Wellen, die ihn zu einem beliebten Ort zum Surfen machen. Es gibt auch eine Reihe anderer Wassersportarten wie Paddleboarding und Kajakfahren. Der Strand beherbergt auch eine Reihe von Restaurants und Bars sowie einige Hotels und Resorts.",
+        "experianseTitleTwoLocation": "Aluthgama, Sri Lanka",
+        "experianseTitleThree": "Bentota Boot-Safari",
+        "experianseTitleThreeDescription": "Gleiten Sie entlang des ruhigen Flusses, Ihr Schiff geführt von erfahrenen lokalen Führern, die eine intime Kenntnis der versteckten Schätze und Geheimnisse der Gegend besitzen. Während Sie tiefer in dieses bezaubernde Ökosystem vordringen, bereiten Sie sich darauf vor, eine faszinierende Vielfalt von Kreaturen zu begegnen, die dieses grüne Heiligtum ihr Zuhause nennen.",
+        "experianseTitleThreeLocation": "Bentota, Sri Lanka",
+        "experianseTitleFour": "Schildkröten-Brutstation Kosgoda",
+        "experianseTitleFourDescription": "Entlang Sri Lankas Küste verstreut dienen Schildkröten-Brutstationen als Heiligtümer für bedrohte Meeresschildkröten und bieten Zuflucht, Rehabilitation und Bildung. Besucher erleben den delikaten Schlüpfprozess, halten winzige Schlüpflinge und lassen sie zurück ins Meer, wodurch eine Verbindung zu diesen bemerkenswerten Kreaturen entsteht.",
+        "experianseTitleFourLocation": "Kosgoda, Sri Lanka",
+        "experianseTitleFive": "Bentota Fluss-Wassersport",
+        "experianseTitleFiveDescription": "Spüren Sie den Adrenalinstoß, während Sie durch die glitzernden Gewässer auf einem Jetski schneiden, der Wind durch Ihr Haar peitschend und die Flussufer an Ihrer Sicht vorbeirauschend. Halten Sie sich fest, während Sie die aufregenden Wendungen und Drehungen des Wasserskifahrens erleben, das Spritzwasser Ihr Gesicht erfrischend, während Sie über die Oberfläche gleiten. Begeben Sie sich auf eine aufregende Fahrt auf einem Bananenboot, hüpfend über die Wellen und Lachen teilend mit Freunden, während Sie die Flussbiegungen navigieren.",
+        "experianseTitleFiveLocation": "Bentota, Sri Lanka",
+        "experianseTitleSix": "Bentota Fluss-Angeln",
+        "experianseTitleSixDescription": "Der Bentota Fluss, der sich durch die üppigen Landschaften Sri Lankas schlängelt, bietet ein Angler-Paradies, eine Oase, wo der Nervenkitzel des Fangens eines geschätzten Fisches auf die Ruhe der Natur trifft. Während Sie Ihre Leine in die schimmernden Gewässer werfen, baut sich Vorfreude auf, das sanfte Ziehen des Flusses verspricht eine lohnende Begegnung mit dem vielfältigen Wasserleben, das in seinen Tiefen gedeiht.",
+        "experianseTitleSixLocation": "Bentota, Sri Lanka",
+        "experianseTitleSeven": "Holzschnitzereien und Masken",
+        "experianseTitleSevenDescription": "Tangalle Strand ist ein breiter, palmengesäumter Strand im südlichen Teil Sri Lankas. Er ist weniger überfüllt und bietet eine friedliche Atmosphäre zum Sonnenbaden und Schwimmen. Tangalle ist auch bekannt für seine reiche marine Biodiversität.",
+        "experianseTitleSevenLocation": "Bentota, Sri Lanka",
+        "experianseTitleEight": "Kandeviharaya Tempel",
+        "experianseTitleEightDescription": "Wenn Sie sich dem Tempel nähern, überkommt Sie ein Gefühl der Ruhe, die sanfte Brise trägt die beruhigenden Klänge chantender Mönche. Die Luft ist erfüllt vom Duft des Weihrauchs, vermischt mit dem süßen Aroma von Frangipani-Blüten, die das Tempelgelände schmücken. Treten Sie in die Haupthalle des Tempels ein, und Ihre Augen werden sofort zur prächtigen Buddha-Statue gezogen, deren ruhiger Ausdruck eine Aura des Friedens ausstrahlt.",
+        "experianseTitleEightLocation": "Bentota, Sri Lanka",
+        "experianseTitleNine": "Ayurveda",
+        "experianseTitleNineDescription": "Unter der Führung erfahrener ayurvedischer Praktiker werden Sie eine umfassende Bewertung durchlaufen, um Ihre einzigartige Konstitution oder Prakriti zu bestimmen. Diese Bewertung umfasst die Beobachtung Ihrer körperlichen Merkmale, die Analyse Ihrer Lebensgewohnheiten und das Verständnis Ihrer emotionalen Tendenzen. Basierend auf Ihrer Prakriti wird ein personalisierter Behandlungsplan maßgeschneidert, um Ihre spezifischen Bedürfnisse anzugehen.",
+        "experianseTitleNineLocation": "Bentota, Sri Lanka",
+        "experianseTitleTen": "Beruwala Fischmarkt",
+        "experianseTitleTenDescription": "Der geschäftige Beruwala Fischmarkt, eingebettet entlang der lebendigen Küste Sri Lankas, ist ein Kaleidoskop von Farben, Aromen und Klängen, ein Zeugnis des reichen Fischerei-Erbes und der kulinarischen Traditionen der Insel. Während Sie in diesen lebendigen Marktplatz eintreten, werden Ihre Sinne sofort von den lebendigen Farbtönen frisch gefangener Meeresfrüchte erweckt, dem verlockenden Aroma von Gewürzen in der Luft und dem lebhaften Geschwätz von Verkäufern und Käufern.",
+        "experianseTitleTenLocation": "Bentota, Sri Lanka",
+        "experianseTitleEleven": "Zimt-Anbau",
+        "experianseTitleElevenDescription": "Lernen Sie die traditionelle Kunst des Zimt-Anbaus und der Verarbeitung direkt auf unserem Grundstück",
+        "experianseTitleElevenLocation": "Bentota, Sri Lanka",
+        "experianseTitleTwelve": "Brief Garten",
+        "experianseTitleTwelveDescription": "Ein Heiligtum der Ruhe und botanischen Wunder. Einst eine Kautschuk-Plantage, wurde dieses bezaubernde Anwesen in ein Meisterwerk der Landschaftsarchitektur verwandelt, ein Zeugnis der visionären Kunst von Bevis Bawa. Während Sie durch die Tore des Gartens schreiten, überkommt Sie ein Gefühl der Ruhe, das sanfte Rascheln der Blätter und das Zwitschern der Vögel schaffen eine Symphonie der Umarmung der Natur. Mäandernde Pfade, geschmückt mit lebendigen Blüten und grünem Laub, locken Sie, die verborgenen Schätze des Gartens zu erkunden.",
+        "experianseTitleTwelveLocation": "Bentota, Sri Lanka"
+    },
+    "ChooseUsSection": {
+        "cards": {
+            "location": {
+                "title": "Unberührte Strandlage",
+                "description": "Gelegen an einem ruhigen Abschnitt des Induruwa Strandes mit goldenem Sand und sicheren Schwimmgewässern, bietet direkten Strandzugang abseits der Massen."
+            },
+            "accommodations": {
+                "title": "Luxuriöse Unterkünfte",
+                "description": "Elegante Meerblickzimmer und private Villen mit zeitgenössischem sri-lankischem Dekor, alle ausgestattet mit Klimaanlage, kostenlosem WLAN und Meer- oder Gartenblick."
+            },
+            "dining": {
+                "title": "Außergewöhnliches Dining",
+                "description": "Strandrestaurant mit frischen Meeresfrüchten und internationaler Küche, plus hauseigenes Café, das Ceylons feinsten Kaffee brüht."
+            }
+        }
+    },
+    "ExperienceCardSection": {
+        "cards": {
+            "beachfront": {
+                "title": "Strand-Glückseligkeit",
+                "description": "Entspannen Sie auf weichem goldenem Sand mit ruhigen, sicheren Schwimmgewässern, geschützt durch vorgelagerte Riffe."
+            },
+            "pool": {
+                "title": "Infinity Pool",
+                "description": "Funkelnder Außen-Infinity-Pool mit panoramischem Meerblick und Poolside-Service."
+            },
+            "coffee": {
+                "title": "Kaffee-Kultur",
+                "description": "Das Coastal Bean Café serviert Ceylons feinsten Kaffee mit Küsten-Atmosphäre und leichten Snacks."
+            },
+            "turtle": {
+                "title": "Schildkröten-Naturschutz",
+                "description": "Nehmen Sie an Schildkröten-Freilassungen teil und lernen Sie über Naturschutz in nahegelegenen Brutstationen."
+            }
+        }
+    },
+    "Footer": {
+        "LogoAlt": "AIDA Queen Palace Logo",
+        "ContactButton": "Kontaktieren Sie uns",
+        "CompanyTitle": "Unternehmen",
+        "CollectionsTitle": "Unsere Sammlungen",
+        "ExperienceTitle": "Erlebnis",
+        "OtherTitle": "Andere",
+        "Links": {
+            "Home": "Startseite",
+            "AboutUs": "Über uns",
+            "Gallery": "Galerie",
+            "AidaHotelBentota": "AIDA Hotel Bentota",
+            "AidaAyurveda": "AIDA Ayurveda",
+            "Accommodation": "Unterkunft",
+            "Blog": "Blog",
+            "PrivacyPolicy": "Datenschutz-Bestimmungen",
+            "CookiePolicy": "Cookie-Richtlinie"
+        },
+        "NewsletterTitle": "Abonnieren Sie den Newsletter und lesen Sie neue Beiträge zuerst",
+        "NewsletterPlaceholder": "Ihre E-Mail hier...",
+        "Subscribe": "Abonnieren",
+        "BrandName": "AIDA Queen Palace",
+        "AllRightsReserved": "Alle Rechte vorbehalten.",
+        "ConceptBy": "Konzept von",
+        "DevelopedBy": "Entwickelt von",
+        "LeafAlt": "Ayurvedisches Symbol"
+    },
+    "AboutPage": {
+        "HeadingTitle": "Über uns | AIDA Queen Palace",
+        "HeadingDescription": "Buchen Sie Ihren Aufenthalt im AIDA Queen Palace, einem luxuriösen Strandresort in Induruwa, Sri Lanka – mit Meerblickzimmern, Pool, Restaurant, hauseigenem Café und 5-Sterne-Service in der Nähe von Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxus-Strandresort, Induruwa, Sri Lanka, Meerblickzimmer, Strandunterkunft, Pool, Restaurant, Hauseigenes Café, 5-Sterne-Service, Bentota Hotels",
+        "HeroImageTitle": "Über uns",
+        "HeroImageDescription": "Entdecken Sie die Schönheit und den Luxus des AIDA Queen Palace, eines Strandparadieses in Sri Lanka. Erleben Sie atemberaubenden Meerblick, elegante Unterkünfte und außergewöhnlichen Service für einen unvergesslichen Aufenthalt. Buchen Sie Ihren Traumurlaub noch heute!",
+        "HeroImageButtonText": "Kontaktieren Sie uns",
+        "AboutResortTitle": "Unsere Geschichte",
+        "AboutResortDescription": "AIDA Queen Palace ist mehr als nur ein Luxushotel in der Nähe von Bentota – es ist ein Zeugnis sri-lankischer Gastfreundschaft und des Erbes der AIDA-Marke. Als Teil der renommierten AIDA-Gruppe (ein Marktführer in Sri Lankas Tourismus- und Wellness-Industrie) führt unser Resort eine Tradition der Exzellenz in jedem Detail fort. Wir öffneten unsere Türen mit einer einzigartigen Vision: Reisenden eine Oase des Komforts und der Authentizität an einem der schönsten Strände Sri Lankas zu bieten.",
+        "AboutResortButtonText": "Jetzt buchen",
+        "ChairmanTitle": "Über unseren Vorsitzenden",
+        "ChairmanDescription": "Gegründet im Jahr 1975 vom visionären Unternehmer Deshabandu Deshamanya Nissanka Weerasena, ist die AIDA-Gruppe zu einem Leuchtturm des Erfolgs sowohl lokal als auch international geworden. Verwurzelt in einem Erbe der Exzellenz im Edelstein- und Schmuckgeschäft, begab sich Herr Weerasena auf eine bemerkenswerte Reise und formte eigenhändig die AIDA-Marke zu einem Symbol für Qualität und Innovation. Die Entstehung von AIDA findet ihre Inspiration in der Welt der deutschen Oper, eine Anerkennung der unschätzbaren Unterstützung deutscher Touristen während der Anfangsphasen des Geschäfts. Angetrieben von einem unermüdlichen Geist und einem unerschütterlichen Engagement für Exzellenz, schmiedete Herr Weerasena dauerhafte Beziehungen und kultivierte einen tadellosen Ruf in der Branche. Aus dem reichen Erfahrungsschatz im Edelstein- und Schmuckhandel schöpfend, diversifizierte AIDA schnell sein Portfolio, überschritt Grenzen und wagte sich in neue Horizonte. Von der glitzernden Welt der Edelsteine expandierte die AIDA-Marke nahtlos in die lebendigen Bereiche Tourismus, Gastronomie, Textilien und das verjüngende Heiligtum der ayurvedischen Gastfreundschaft.",
+        "ChairmanButtonText": "Kontaktieren Sie uns"
+    },
+    "AccommodationPage": {
+        "HeadingTitle": "Unterkunft | AIDA Queen Palace",
+        "HeadingDescription": "Buchen Sie Ihren Aufenthalt im AIDA Queen Palace, einem luxuriösen Strandresort in Induruwa, Sri Lanka – mit Meerblickzimmern, Pool, Restaurant, hauseigenem Café und 5-Sterne-Service in der Nähe von Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxus-Strandresort, Induruwa, Sri Lanka, Meerblickzimmer, Strandunterkunft, Pool, Restaurant, Hauseigenes Café, 5-Sterne-Service, Bentota Hotels",
+        "HeroImageTitle": "Unterkunft",
+        "HeroImageDescription": "Im AIDA Queen Palace ist unsere Unterkunft darauf ausgelegt, Sie in Luxus und Insel-Ruhe zu hüllen. Wählen Sie aus einer Vielzahl eleganter Zimmer und privater Villen, jede sorgfältig eingerichtet, um Ihren Aufenthalt verwöhnend und entspannend zu gestalten. Alle Unterkünfte verfügen über moderne Annehmlichkeiten – von Klimaanlage und luxuriöser Bettwäsche bis hin zu kostenlosem WLAN und persönlichen Safes – um sicherzustellen, dass Sie die Annehmlichkeiten eines Weltklasse-Hotels inmitten der Schönheit der Tropen genießen. Wachen Sie mit panoramischem Meerblick oder dem Anblick üppiger Gärten direkt vor Ihrem Fenster auf. Unten sind die Zimmer- und Suite-Optionen, die in unserem Induruwa Strandhotel verfügbar sind.",
+        "HeroImageButtonText": "Kontaktieren Sie uns"
+    },
+    "AccommodationGrid": {
+        "DeluxeDoubleSuiteRoomOne": "Deluxe Doppelsuite Zimmer Eins",
+        "DeluxeDoubleSuiteRoomTwo": "Deluxe Doppelsuite Zimmer Zwei",
+        "SuperiorDoubleRoomOne": "Superior Doppelzimmer Eins",
+        "SuperiorDoubleRoomTwo": "Superior Doppelzimmer Zwei",
+        "SuperiorTripleRoom": "Superior Dreibettzimmer",
+        "chaletDescription": "Jede sorgfältig eingerichtet, um Ihren Aufenthalt verwöhnend und entspannend zu gestalten. Alle Unterkünfte verfügen über moderne Annehmlichkeiten – von Klimaanlage und luxuriöser Bettwäsche bis hin zu kostenlosem WLAN und persönlichen Safes – um sicherzustellen, dass Sie die Annehmlichkeiten eines Weltklasse-Hotels inmitten der Schönheit der Tropen genießen. Wachen Sie mit panoramischem Meerblick oder dem Anblick üppiger Gärten direkt vor Ihrem Fenster auf.",
+        "facilitiesTitle": "Ausstattung:",
+        "facilityKitchen": "Küche",
+        "facilitySittingArea": "Sitzbereich",
+        "facilityGarden": "Garten",
+        "facilityAC": "Klimaanlage",
+        "facilityBath": "Bad",
+        "facilityPool": "Pool",
+        "facilityDesk": "Schreibtisch",
+        "facilityCozySittingArea": "Mit gemütlichem Sitzbereich",
+        "facilityEquippedKitchen": "Voll ausgestattete Küche",
+        "facilityHotWater": "Warmwasser",
+        "facilityTileFloor": "Titan-Bodenbelag",
+        "facilityTowels": "Handtücher",
+        "facilityKaraoke": "Bietet einen Karaoke-Bereich",
+        "facilitySocket": "Steckdose neben dem Bett",
+        "facilityClothesRack": "Kleiderständer",
+        "knowMoreButton": "Mehr erfahren",
+        "bookNowButton": "Jetzt buchen"
+    },
+    "ExperiencePage": {
+        "HeadingTitle": "Erlebnis | AIDA Queen Palace",
+        "HeadingDescription": "Buchen Sie Ihren Aufenthalt im AIDA Queen Palace, einem luxuriösen Strandresort in Induruwa, Sri Lanka – mit Meerblickzimmern, Pool, Restaurant, hauseigenem Café und 5-Sterne-Service in der Nähe von Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxus-Strandresort, Induruwa, Sri Lanka, Meerblickzimmer, Strandunterkunft, Pool, Restaurant, Hauseigenes Café, 5-Sterne-Service, Bentota Hotels",
+        "HeroImageTitle": "Erlebnis",
+        "HeroImageDescription": "Im AIDA Queen Palace ist unsere Unterkunft darauf ausgelegt, Sie in Luxus und Insel-Ruhe zu hüllen. Wählen Sie aus einer Vielzahl eleganter Zimmer und privater Villen, jede sorgfältig eingerichtet, um Ihren Aufenthalt verwöhnend und entspannend zu gestalten. Alle Unterkünfte verfügen über moderne Annehmlichkeiten – von Klimaanlage und luxuriöser Bettwäsche bis hin zu kostenlosem WLAN und persönlichen Safes – um sicherzustellen, dass Sie die Annehmlichkeiten eines Weltklasse-Hotels inmitten der Schönheit der Tropen genießen. Wachen Sie mit panoramischem Meerblick oder dem Anblick üppiger Gärten direkt vor Ihrem Fenster auf. Unten sind die Zimmer- und Suite-Optionen, die in unserem Induruwa Strandhotel verfügbar sind.",
+        "HeroImageButtonText": "Kontaktieren Sie uns"
+    },
+    "GalleryPage": {
+        "HeadingTitle": "Galerie | AIDA Queen Palace",
+        "HeadingDescription": "Buchen Sie Ihren Aufenthalt im AIDA Queen Palace, einem luxuriösen Strandresort in Induruwa, Sri Lanka – mit Meerblickzimmern, Pool, Restaurant, hauseigenem Café und 5-Sterne-Service in der Nähe von Bentota.",
+        "HeadingKeywords": "AIDA Queen Palace, Luxus-Strandresort, Induruwa, Sri Lanka, Meerblickzimmer, Strandunterkunft, Pool, Restaurant, Hauseigenes Café, 5-Sterne-Service, Bentota Hotels",
+        "HeroImageTitle": "Galerie",
+        "HeroImageDescription": "Erkunden Sie unsere atemberaubende Galerie, die die Schönheit und den Luxus des AIDA Queen Palace zeigt, Ihrem perfekten Strandrefugium in Sri Lanka. Von atemberaubenden Meerblicken und eleganten Unterkünften bis hin zur lebendigen lokalen Kultur und unvergesslichen Erlebnissen fängt unsere Galerie die Essenz dessen ein, was das AIDA Queen Palace zu einem wirklich besonderen Reiseziel macht. Ob Sie von Ihrem nächsten Urlaub träumen oder sich an einen vergangenen Besuch erinnern, unsere Bildersammlung lädt Sie ein, in die Faszination dieses tropischen Paradieses einzutauchen.",
+        "HeroImageButtonText": "Jetzt buchen"
+    },
+    "BlogPage": {
+        "HeadingTitle": "Blog | AIDA Queen Palace",
+        "HeadingDescription": "Bleiben Sie auf dem Laufenden mit den neuesten Nachrichten, Reisetipps und Einblicken vom AIDA Queen Palace, Ihrem luxuriösen Strandresort in Induruwa, Sri Lanka. Erkunden Sie unseren Blog für inspirierende Geschichten, lokale Kultur und exklusive Angebote, um Ihren Aufenthalt zu bereichern.",
+        "HeadingKeywords": "AIDA Queen Palace Blog, Luxus-Strandresort Nachrichten, Reisetipps Sri Lanka, Induruwa Resort Einblicke, Strandunterkunft Updates, Lokale Kultur Sri Lanka, Exklusive Angebote AIDA Queen Palace",
+        "HeroImageTitle": "Blog",
+        "HeroImageDescription": "Willkommen im AIDA Queen Palace Blog, Ihrer ersten Anlaufstelle für alles rund um unser luxuriöses Strandresort in Induruwa, Sri Lanka. Hier teilen wir inspirierende Reisegeschichten, Insider-Tipps zur Erkundung der lokalen Kultur, Updates zu unseren neuesten Angeboten und Expertenratschläge, um das Beste aus Ihrem Aufenthalt bei uns zu machen. Ob Sie Ihren ersten Besuch planen oder für ein weiteres unvergessliches Erlebnis zurückkehren, unser Blog ist darauf ausgelegt, Sie informiert und inspiriert zu halten.",
+        "HeroImageButtonText": "Kontaktieren Sie uns"
+    },
+    "ContactUsPage": {
+        "HeadingTitle": "Kontakt | AIDA Queen Palace",
+        "HeadingDescription": "Treten Sie in Kontakt mit dem AIDA Queen Palace, Ihrem luxuriösen Strandresort in Induruwa, Sri Lanka. Ob Sie Fragen zu unseren Unterkünften, Annehmlichkeiten oder lokalen Erlebnissen haben, unser Team ist hier, um Ihnen zu helfen. Kontaktieren Sie uns noch heute, um Ihren unvergesslichen Aufenthalt zu planen.",
+        "HeadingKeywords": "AIDA Queen Palace Kontakt, Luxus-Strandresort Anfragen, Induruwa Resort Unterstützung, Strandunterkunft Fragen, Sri Lanka Reise Support, Lokale Erlebnis Informationen",
+        "HeroImageTitle": "Kontaktieren Sie uns",
+        "HeroImageDescription": "Wir sind hier, um zu helfen! Ob Sie Fragen zu unseren Unterkünften, Annehmlichkeiten oder lokalen Erlebnissen haben, unser engagiertes Team im AIDA Queen Palace ist bereit, Ihnen zu helfen. Kontaktieren Sie uns per Telefon, E-Mail oder über unser Online-Kontaktformular, und wir sorgen dafür, dass Ihre Anfragen prompt bearbeitet werden. Wir freuen uns darauf, Sie in unserem luxuriösen Strandresort in Induruwa, Sri Lanka, willkommen zu heißen.",
+        "HeroImageButtonText": "Jetzt buchen"
+    },
+    "ContactUsForm": {
+        "sendUsMessage": "Senden Sie uns eine Nachricht",
+        "helpText": "Haben Sie Fragen zu Ihrer Reservierung oder unseren Annehmlichkeiten? Wir sind hier, um zu helfen.",
+        "nameLabel": "Name (Vor- & Nachname)",
+        "namePlaceholder": "Geben Sie Ihren Namen ein",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+        "phoneLabel": "Telefonnummer",
+        "phonePlaceholder": "Geben Sie Ihre Telefon- oder WhatsApp-Nummer ein",
+        "subjectLabel": "Betreff",
+        "subjectPlaceholder": "Reservierungsanfrage",
+        "messageLabel": "Nachricht",
+        "messagePlaceholder": "Bitte geben Sie Details zu Ihrer Anfrage an...",
+        "sending": "Wird gesendet...",
+        "sendMessage": "Nachricht senden",
+        "captchaError": "Bitte vervollständigen Sie das CAPTCHA.",
+        "emailSuccess": "Nachricht erfolgreich gesendet!",
+        "emailFail": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut.",
+        "emailError": "Beim Senden der Nachricht ist ein Fehler aufgetreten.",
+        "formRefError": "Formular-Referenz ist nicht verfügbar.",
+        "publicKeyError": "EmailJS öffentlicher Schlüssel fehlt. Bitte überprüfen Sie Ihre Umgebungsvariablen."
+    },
+    "ContactUsInfo": {
+        "hotelInformation": "Hotel-Informationen",
+        "addressLabel": "Adresse",
+        "addressValue": "92H6+922, Induruwa 80500, Sri Lanka",
+        "phoneLabel": "Telefon",
+        "phoneValue": "+94 70 363 7835",
+        "phoneAvailable": "24/7 verfügbar für Reservierungen und Anfragen",
+        "emailLabel": "E-Mail",
+        "emailValue": "aidaqueenpalace@gmail.com",
+        "emailResponse": "Wir antworten innerhalb von 24 Stunden",
+        "checkinoutTitle": "Check-in & Check-out",
+        "checkin": "Check-in: 14:00 Uhr",
+        "checkout": "Check-out: 12:00 Uhr",
+        "parkingTitle": "Parkplatz",
+        "parkingAvailable": "Valet-Parking verfügbar",
+        "conciergeTitle": "Sicherheit & Concierge",
+        "conciergeAvailable": "CCTV-Sicherheit 24/7",
+        "conciergeLocation": "In der Hauptlobby"
+    },
+    "ThankYouPage": {
+        "ThankyouPageHeading": "Vielen Dank für Ihre Kontaktaufnahme!",
+        "ThankyouPageDescription": "Vielen Dank, dass Sie sich an das AIDA Queen Palace gewandt haben. Wir schätzen Ihr Interesse und werden uns in Kürze bei Ihnen melden. In der Zwischenzeit erkunden Sie gerne unsere Website für weitere Informationen über unser luxuriöses Strandresort in Induruwa, Sri Lanka.",
+        "ThankyouPageKeywords": "AIDA Queen Palace Danke, Luxus-Strandresort Kontakt, Induruwa Resort Antwort, Strandunterkunft Anfrage, Sri Lanka Reise Follow-Up",
+        "HeadingDescription": "Wir schätzen es, dass Sie sich an AIDA Ayurveda gewandt haben. Ihre Nachricht wurde erhalten und unser Team wird sich in Kürze bei Ihnen melden. Wir freuen uns darauf, Ihnen bei Ihrer Anfrage zu helfen und hoffen, Sie bald in unserem Hotel begrüßen zu können.",
+        "returnHome": "Zurück zur Startseite",
+        "title": "Vielen Dank!",
+        "successMessage": "Ihre Nachricht wurde erfolgreich gesendet.",
+        "appreciation": "Wir schätzen Ihre Kontaktaufnahme. Unser Team wird Ihre Nachricht überprüfen und sich innerhalb von 24-48 Stunden bei Ihnen melden.",
+        "referenceId": "Referenz-ID",
+        "sendAnother": "Weitere Nachricht senden"
+    },
+    "PrivacyPolicyPage": {
+        "HeadingTitle": "Datenschutz-Bestimmungen | AIDA Queen Palace",
+        "HeadingDescription": "Lesen Sie die Datenschutz-Bestimmungen des AIDA Queen Palace, Ihres luxuriösen Strandresorts in Induruwa, Sri Lanka. Erfahren Sie, wie wir Ihre persönlichen Informationen schützen und Ihre Privatsphäre während Ihres Aufenthalts bei uns gewährleisten.",
+        "HeadingKeywords": "AIDA Queen Palace Datenschutz-Bestimmungen, Luxus-Strandresort Datenschutz, Induruwa Resort Persönliche Informationen, Strandunterkunft Privatsphäre, Sri Lanka Reise Sicherheit"
+    },
+    "CookiePolicyPage": {
+        "HeadingTitle": "Cookie-Richtlinie | AIDA Queen Palace",
+        "HeadingDescription": "Erfahren Sie mehr über die Cookie-Richtlinie des AIDA Queen Palace, Ihres luxuriösen Strandresorts in Induruwa, Sri Lanka. Verstehen Sie, wie wir Cookies verwenden, um Ihr Erlebnis auf unserer Website zu verbessern und Ihre Privatsphäre zu gewährleisten.",
+        "HeadingKeywords": "AIDA Queen Palace Cookie-Richtlinie, Luxus-Strandresort Cookies, Induruwa Resort Website-Erlebnis, Strandunterkunft Privatsphäre, Sri Lanka Reise Daten"
+    }
+}
