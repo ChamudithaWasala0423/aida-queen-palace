@@ -92,7 +92,7 @@ export default function NavBar() {
         { name: t("aidaAyurveda"), href: "https://www.aidaayurveda.com" },
         {
           name: t("aidaHotelBentota"),
-          href: "https://www.aidaayurveda.com/aida-hotel",
+          href: "https://www.aidahotelbentota.com",
         },
       ],
     },
