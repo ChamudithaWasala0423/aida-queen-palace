@@ -15,7 +15,7 @@ const  Page = () => {
       <HeroImage
         title={t2("HeroImageTitle")}
         description={t2("HeroImageDescription")}
-        imageUrl="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607910/2_nscxl6.webp"
+        imageUrl="https://res.cloudinary.com/dzffjgmyc/image/upload/v1761455421/dji_mimo_20251023_160938_0_1761297205056_photo_bfen7h.jpg"
         uri="https://booking.aidaqueenpalace.com"
         buttonText={t2("HeroImageButtonText")}
       />

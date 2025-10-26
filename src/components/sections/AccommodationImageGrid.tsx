@@ -69,6 +69,21 @@ const facilities = [
 const AccommodationImageGrid = () => {
   const t = useTranslations("AccommodationGrid");
 
+  // Map each displayed room key to its specific description key in messages
+  const roomDescriptionKeyMap: Record<string, string> = {
+    // Suites
+    DeluxeDoubleSuiteRoomOne: "DeluxeSuiteRoom",
+    DeluxeDoubleSuiteRoomTwo: "DeluxeDoubleRoom",
+    // Superior doubles
+    SuperiorDoubleRoomOne: "SuperiorDoubleRoom",
+    SuperiorDoubleRoomTwo: "SuperiorDoubleRoom",
+    // Superior triple
+    SuperiorTripleRoom: "SuperiorTripleRoomDesc",
+    // Future room types supported by translations
+    DeluxeTripleRoom: "DeluxeTripleRoom",
+    DeluxeQuadrupleRoom: "DeluxeQuadrupleRoom",
+  };
+
   const renderFacilities = () => (
     <div className="grid grid-cols-4 gap-2">
       {facilities.map(({ icon: Icon, label }, index) => (
@@ -128,7 +143,10 @@ const AccommodationImageGrid = () => {
                   <div className="grid grid-cols-1 items-center gap-4">
                     {renderFacilities()}
                     <div className="mt-2">
-                      <p className="text-xs">{t("chaletDescription")}</p>
+                      <p className="text-xs">
+                        {/* Prefer specific room description when available; fallback to generic text */}
+                        {t(roomDescriptionKeyMap[titleKey] ?? "chaletDescription")}
+                      </p>
                     </div>
                     <div className="mt-2">
                       <p className="text-sm font-semibold">{t("facilitiesTitle")}</p>

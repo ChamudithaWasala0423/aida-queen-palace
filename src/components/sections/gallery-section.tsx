@@ -32,14 +32,14 @@ const galleryImages: GalleryImage[] = [
   },
   {
     id: 3,
-    src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607680/4_rdw5y5.webp",
+    src: "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761455451/dji_mimo_20251023_165718_0_1761297200249_photo_amhdoo.jpg",
     alt: "Portrait photography in black and white",
     width: 500,
     height: 500,
   },
   {
     id: 4,
-    src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607677/9_ktyjnj.webp",
+    src: "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761455421/dji_mimo_20251023_160938_0_1761297205056_photo_bfen7h.jpg",
     alt: "Modern architecture photography",
     width: 500,
     height: 800,
@@ -60,7 +60,7 @@ const galleryImages: GalleryImage[] = [
   },
   {
     id: 7,
-    src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607954/3_uoykik.webp",
+    src: "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761455449/dji_mimo_20251023_171256_0_1761297198084_photo_zplmbp.jpg",
     alt: "Minimalist product photography",
     width: 500,
     height: 500,

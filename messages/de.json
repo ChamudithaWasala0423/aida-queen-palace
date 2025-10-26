@@ -251,7 +251,13 @@
         "knowMoreButton": "Mehr erfahren",
         "bookNowButton": "Jetzt buchen",
         "facilityBeach": "Strandzugang",
-        "facilityBalcony": "Privater Balkon"
+        "facilityBalcony": "Privater Balkon",
+        "DeluxeSuiteRoom": "Gönnen Sie sich unsere luxuriöse Deluxe Suite mit separatem Wohnbereich und einem wirklich atemberaubenden, panoramischen Meerblick von Ihrem privaten Balkon.",
+        "DeluxeDoubleRoom": "Das geräumige Deluxe Doppelzimmer ist auf Komfort ausgelegt und bietet eine schöne Auszeit sowie einen atemberaubenden Meerblick von Ihrem privaten Bereich.",
+        "SuperiorDoubleRoom": "Genießen Sie einen komfortablen Aufenthalt im Superior Doppelzimmer, das durch seine hervorragende Lage und den beeindruckenden Meerblick Ihren Küstenurlaub bereichert.",
+        "SuperiorTripleRoomDesc": "Ideal für kleine Gruppen oder Familien bietet das Superior Dreibettzimmer viel Komfort und einen wunderbaren, unverbauten Meerblick für einen unvergesslichen Aufenthalt.",
+        "DeluxeTripleRoom": "Unser großzügiges Deluxe Dreibettzimmer bietet erstklassigen Komfort für drei Gäste und sorgt für ein luxuriöses Erlebnis mit weitreichendem, atemberaubendem Meerblick.",
+        "DeluxeQuadrupleRoom": "Perfekt für Familien oder Freunde: Das geräumige Deluxe Vierbettzimmer garantiert mit hochwertiger Bettwäsche einen entspannten Gruppenaufenthalt und einen wirklich atemberaubenden Meerblick."
     },
     "ExperiencePage": {
         "HeadingTitle": "Erlebnis | AIDA Queen Palace",

@@ -12,7 +12,7 @@ const CafeSection = () => {
             <div
               className="h-96 lg:h-[500px] bg-cover bg-center rounded-lg order-2 lg:order-1"
               style={{
-                backgroundImage: `url('https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758802288/DSC01177_yqt3qg.webp')`,
+                backgroundImage: `url('https://res.cloudinary.com/dzffjgmyc/image/upload/v1761455458/dji_mimo_20251023_175042_0_1761297184348_photo_yj7fdt.jpg')`,
               }}
             />
             <div className="order-1 lg:order-2">

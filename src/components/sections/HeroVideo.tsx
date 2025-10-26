@@ -1,5 +1,5 @@
 import MaxWidthWrapper from "../general/MaxWidthWrapper";
-// import BookingBar from "./BookingBar";
+import BookingBar from "./BookingBar";
 
 type Props = {
   videoUrl: string;
@@ -23,7 +23,7 @@ const HeroVideo = ({videoUrl}: Props) => {
       </div>
       <MaxWidthWrapper>
         <div className="absolute inset-0 z-10 flex flex-col items-center justify-center  md:mt-64">
-         {/* <BookingBar /> */}
+         <BookingBar />
         </div>
       </MaxWidthWrapper>
     </section>

@@ -14,6 +14,7 @@ import { getPopupBanner } from "../../../sanity/sanity.query";
 import PopupBanner from "@/components/general/pop-up-banner";
 import type { PopupBannerData } from "@/components/general/pop-up-banner";
 import CafeSection from "@/components/sections/cafe-section";
+import HeroVideo from "@/components/sections/HeroVideo";
 
 export default function Home() {
   const t = useTranslations("HomePage");
@@ -40,7 +41,8 @@ export default function Home() {
         description={t("HeadingDescription")}
         keywords={t("HeadingKeywords")}
       />
-      <HeroCarousel />
+      {/* <HeroCarousel /> */}
+      <HeroVideo videoUrl="https://res.cloudinary.com/dzffjgmyc/video/upload/v1761454092/Untitled_video_-_Made_with_Clipchamp_rg82ni.mp4" />
       <ImageFullGrid
         title={t("ImageFullGridTitle")}
         description={t("ImageFullGridDescription")}
