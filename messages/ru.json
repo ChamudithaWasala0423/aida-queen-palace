@@ -264,7 +264,19 @@
         "DeluxeDoubleRoomLang": "Делюкс двухместный номер",
         "DeluxeTripleRoomLang": "Делюкс трёхместный номер",
         "DeluxeRoomFamily": "Делюкс семейный номер",
-        "DeluxeQuadrupleRoomLang": "Делюкс четырёхместный номер"
+        "DeluxeQuadrupleRoomLang": "Делюкс четырёхместный номер",
+        "sizeLabel": "Площадь",
+        "sizeUnit": "м²",
+    "sizeUnknown": "Нет данных",
+           "DeluxeDoubleSuiteRoomOneSize": "70",
+        "DeluxeDoubleSuiteRoomTwoSize": "70",
+        "SuperiorDoubleRoomOneSize": "36",
+        "SuperiorDoubleRoomTwoSize": "36",
+        "SuperiorTripleRoomSize": "36",
+        "DeluxeDoubleRoomSize": "66",
+        "DeluxeTripleRoomSize": "66",
+        "DeluxeFamilyRoomSize": "78",
+        "DeluxeQuadrupleRoomSize": "76"
     },
     "ExperiencePage": {
         "HeadingTitle": "Впечатления | AIDA Queen Palace",

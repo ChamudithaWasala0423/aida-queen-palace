@@ -22,6 +22,7 @@ const CenterTitle = ({ title, description, buttonUrl, buttonText }: Props) => {
               alt="AIDA Royal icon"
               width={200}
               height={200}
+              className="mb-6"
             />
             <h2 className=" uppercase font-heading text-3xl md:text-5xl lg:text-5xl font-[family-name:var(--font-lora)] font-light   text-foreground mb-6">
               {title}

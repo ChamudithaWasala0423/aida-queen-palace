@@ -128,6 +128,19 @@ const AccommodationImageGrid = () => {
     DeluxeRoomFamily:"DeluxeFamilyRoomDescription"
   };
 
+  // Map each displayed room key to its specific size key in messages
+  const roomSizeKeyMap: Record<string, string> = {
+    DeluxeDoubleSuiteRoomOne: "DeluxeDoubleSuiteRoomOneSize",
+    DeluxeDoubleSuiteRoomTwo: "DeluxeDoubleSuiteRoomTwoSize",
+    SuperiorDoubleRoomOne: "SuperiorDoubleRoomOneSize",
+    SuperiorDoubleRoomTwo: "SuperiorDoubleRoomTwoSize",
+    SuperiorTripleRoom: "SuperiorTripleRoomSize",
+    DeluxeDoubleRoomLang: "DeluxeDoubleRoomSize",
+    DeluxeTripleRoomLang: "DeluxeTripleRoomSize",
+    DeluxeRoomFamily: "DeluxeFamilyRoomSize",
+    DeluxeQuadrupleRoomLang: "DeluxeQuadrupleRoomSize",
+  };
+
   const renderFacilities = () => (
     <div className="grid grid-cols-4 gap-2">
       {facilities.map(({ icon: Icon, label }, index) => (
@@ -185,7 +198,19 @@ const AccommodationImageGrid = () => {
                 </DialogHeader>
                 <div className="grid gap-4">
                   <div className="grid grid-cols-1 items-center gap-4">
+                   
                     {renderFacilities()}
+                     {(() => {
+                      const sizeKey = roomSizeKeyMap[titleKey];
+                      const raw = sizeKey ? t(sizeKey) : "";
+                      const hasSize = typeof raw === "string" && raw.trim().length > 0;
+                      const value = hasSize ? `${raw} ${t("sizeUnit")}` : t("sizeUnknown");
+                      return (
+                        <p className="text-sm text-gray-800 font-bold">
+                          {t("sizeLabel")}: {value}
+                        </p>
+                      );
+                    })()}
                     <div className="mt-2">
                       <p className="text-xs">
                         {/* Prefer specific room description when available; fallback to generic text */}

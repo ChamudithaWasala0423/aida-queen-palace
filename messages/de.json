@@ -264,7 +264,19 @@
         "DeluxeDoubleRoomLang": "Deluxe Doppelzimmer",
         "DeluxeTripleRoomLang": "Deluxe Dreibettzimmer",
         "DeluxeRoomFamily": "Deluxe Familienzimmer",
-        "DeluxeQuadrupleRoomLang": "Deluxe Vierbettzimmer"
+        "DeluxeQuadrupleRoomLang": "Deluxe Vierbettzimmer",
+        "sizeLabel": "Größe",
+        "sizeUnit": "m²",
+    "sizeUnknown": "Nicht verfügbar",
+            "DeluxeDoubleSuiteRoomOneSize": "70",
+        "DeluxeDoubleSuiteRoomTwoSize": "70",
+        "SuperiorDoubleRoomOneSize": "36",
+        "SuperiorDoubleRoomTwoSize": "36",
+        "SuperiorTripleRoomSize": "36",
+        "DeluxeDoubleRoomSize": "66",
+        "DeluxeTripleRoomSize": "66",
+        "DeluxeFamilyRoomSize": "78",
+        "DeluxeQuadrupleRoomSize": "76"
     },
     "ExperiencePage": {
         "HeadingTitle": "Erlebnis | AIDA Queen Palace",

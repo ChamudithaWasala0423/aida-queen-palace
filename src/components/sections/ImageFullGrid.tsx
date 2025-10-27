@@ -10,6 +10,8 @@ type Props = {
   buttonText: string;
 };
 
+
+
 const ImageFullGrid = ({ title, description, imageUrl, buttonText }: Props) => {
   return (
     <>
