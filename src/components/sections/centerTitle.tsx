@@ -18,7 +18,7 @@ const CenterTitle = ({ title, description, buttonUrl, buttonText }: Props) => {
         <MaxWidthWrapper>
           <div className="text-center flex flex-col items-center justify-center">
             <Image
-              src="https://res.cloudinary.com/dzffjgmyc/image/upload/v1761564327/Pngtree_european_royal_pattern_1534756_1_t8py9w_1_whrzmi.png"
+              src="https://res.cloudinary.com/dzffjgmyc/image/upload/v1761579951/Pngtree_european_royal_pattern_1534756_1_t8py9w_2_jy10x1.png"
               alt="AIDA Royal icon"
               width={200}
               height={200}
