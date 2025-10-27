@@ -17,7 +17,7 @@ const ImageFullGrid = ({ title, description, imageUrl, buttonText }: Props) => {
         <MaxWidthWrapper className="flex flex-col items-center gap-16 sm:gap-32  mt-24">
           <div className="flex flex-col  items-center gap-4 sm:gap-6 ">
             <Image
-              src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758690534/Pngtree_european_royal_pattern_1534756_1_t8py9w.png"
+              src="https://res.cloudinary.com/dzffjgmyc/image/upload/v1761564327/Pngtree_european_royal_pattern_1534756_1_t8py9w_1_whrzmi.png"
               alt="AIDA Royal icon"
               width={200}
               height={200}
