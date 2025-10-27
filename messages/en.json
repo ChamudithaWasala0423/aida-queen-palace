@@ -257,7 +257,14 @@
         "SuperiorDoubleRoom": "Enjoy a comfortable stay in the Superior Double Room, which features a great location and a stunning sea view to enhance your coastal retreat.",
         "SuperiorTripleRoomDesc" : "Ideal for small groups or families, the Superior Triple Room offers ample comfort and a wonderful, unobstructed sea view for a memorable stay.",
         "DeluxeTripleRoom" : "Our generously sized Deluxe Triple Room offers premium comfort for three guests, providing a luxurious experience and an expansive, breathtaking sea view.",
-        "DeluxeQuadrupleRoom": "Perfect for families or friends, the spacious Deluxe Quadruple Room ensures a relaxed group stay with its premium bedding and truly breathtaking sea view."
+        "DeluxeQuadrupleRoom": "Perfect for families or friends, the spacious Deluxe Quadruple Room ensures a relaxed group stay with its premium bedding and truly breathtaking sea view.",
+        "DeluxeTripleRoomDescription": "Our generously sized Deluxe Triple Room offers premium comfort for three guests, providing a luxurious experience and an expansive, breathtaking sea view.",
+        "DeluxeQuadrupleRoomDescription": "Perfect for families or friends, the spacious Deluxe Quadruple Room ensures a relaxed group stay with its premium bedding and truly breathtaking sea view.",
+        "DeluxeFamilyRoomDescription": "The Deluxe Family Room is thoughtfully designed to accommodate families, offering ample space, premium amenities, and a stunning sea view for a memorable stay.",
+        "DeluxeDoubleRoomLang": "Deluxe Double Room",
+        "DeluxeTripleRoomLang": "Deluxe Triple Room",
+        "DeluxeRoomFamily": "Deluxe Family Room",
+        "DeluxeQuadrupleRoomLang": "Deluxe Quadruple Room"
     },
     "ExperiencePage": {
         "HeadingTitle": "Experience | AIDA Queen Palace",

@@ -257,7 +257,14 @@
         "SuperiorDoubleRoom": "Genießen Sie einen komfortablen Aufenthalt im Superior Doppelzimmer, das durch seine hervorragende Lage und den beeindruckenden Meerblick Ihren Küstenurlaub bereichert.",
         "SuperiorTripleRoomDesc": "Ideal für kleine Gruppen oder Familien bietet das Superior Dreibettzimmer viel Komfort und einen wunderbaren, unverbauten Meerblick für einen unvergesslichen Aufenthalt.",
         "DeluxeTripleRoom": "Unser großzügiges Deluxe Dreibettzimmer bietet erstklassigen Komfort für drei Gäste und sorgt für ein luxuriöses Erlebnis mit weitreichendem, atemberaubendem Meerblick.",
-        "DeluxeQuadrupleRoom": "Perfekt für Familien oder Freunde: Das geräumige Deluxe Vierbettzimmer garantiert mit hochwertiger Bettwäsche einen entspannten Gruppenaufenthalt und einen wirklich atemberaubenden Meerblick."
+        "DeluxeQuadrupleRoom": "Perfekt für Familien oder Freunde: Das geräumige Deluxe Vierbettzimmer garantiert mit hochwertiger Bettwäsche einen entspannten Gruppenaufenthalt und einen wirklich atemberaubenden Meerblick.",
+        "DeluxeTripleRoomDescription": "Unser großzügiges Deluxe Dreibettzimmer bietet erstklassigen Komfort für drei Gäste und sorgt für ein luxuriöses Erlebnis sowie einen weitreichenden, atemberaubenden Meerblick.",
+        "DeluxeQuadrupleRoomDescription": "Perfekt für Familien oder Freunde: Das geräumige Deluxe Vierbettzimmer garantiert mit hochwertiger Bettwäsche einen entspannten Gruppenaufenthalt und einen wirklich atemberaubenden Meerblick.",
+        "DeluxeFamilyRoomDescription": "Das Deluxe Familienzimmer ist durchdacht für Familien konzipiert und bietet viel Platz, Premium‑Annehmlichkeiten und einen beeindruckenden Meerblick für einen unvergesslichen Aufenthalt.",
+        "DeluxeDoubleRoomLang": "Deluxe Doppelzimmer",
+        "DeluxeTripleRoomLang": "Deluxe Dreibettzimmer",
+        "DeluxeRoomFamily": "Deluxe Familienzimmer",
+        "DeluxeQuadrupleRoomLang": "Deluxe Vierbettzimmer"
     },
     "ExperiencePage": {
         "HeadingTitle": "Erlebnis | AIDA Queen Palace",
