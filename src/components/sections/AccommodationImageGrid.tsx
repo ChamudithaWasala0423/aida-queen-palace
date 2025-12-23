@@ -18,53 +18,53 @@ import MaxWidthWrapper from "../general/MaxWidthWrapper";
 import { TbBeach } from "react-icons/tb";
 
 const images = [
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607680/4_rdw5y5.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607683/2_guv2wy.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607680/5_odesrg.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607677/9_ktyjnj.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607678/6_a9uhr3.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607680/7_zmln0m.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607679/8_mqbdzg.webp"
+  "/Deluxe Double Suite Room 1/4_rdw5y5.webp",
+  "/Deluxe Double Suite Room 1/2_guv2wy.webp",
+  "/Deluxe Double Suite Room 1/5_odesrg.webp",
+  "/Deluxe Double Suite Room 1/9_ktyjnj.webp",
+  "/Deluxe Double Suite Room 1/6_a9uhr3.webp",
+  "/Deluxe Double Suite Room 1/7_zmln0m.webp",
+  "/Deluxe Double Suite Room 1/8_mqbdzg.webp"
 ];
 const imagesTwo = [
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607953/5_gojsin.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607954/3_uoykik.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607953/6_k1lhfe.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607953/6_k1lhfe.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607948/2_p0gbre.webp",
-   "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607951/1_d53x4o.webp",
+  "/Deluxe Double Suite Room 2/5_gojsin.webp",
+  "/Deluxe Double Suite Room 2/3_uoykik.webp",
+  "/Deluxe Double Suite Room 2/6_k1lhfe.webp",
+  "/Deluxe Double Suite Room 2/6_k1lhfe.webp",
+  "/Deluxe Double Suite Room 2/2_p0gbre.webp",
+   "/Deluxe Double Suite Room 2/1_d53x4o.webp",
 ];
 const imagesThree = [
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607808/5_mrzo75.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607808/4_kf4ram.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607809/2_gfkad2.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607808/3_i86hba.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607809/1_iawsip.webp",
+  "/Superior Double Room 1/5_mrzo75.webp",
+  "/Superior Double Room 1/4_kf4ram.webp",
+  "/Superior Double Room 1/2_gfkad2.webp",
+  "/Superior Double Room 1/3_i86hba.webp",
+  "/Superior Double Room 1/1_iawsip.webp",
 ];
 const imagesFour = [
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607853/7_qmbec4.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607853/6_qplp6g.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607855/2_bp1pb5.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607856/4_ovh2od.webp",
-  "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607854/5_otfjez.webp",
-   "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607856/1_oowo0e.webp",
+  "/Superior Double Room 2/7_qmbec4.webp",
+  "/Superior Double Room 2/6_qplp6g.webp",
+  "/Superior Double Room 2/2_bp1pb5.webp",
+  "/Superior Double Room 2/4_ovh2od.webp",
+  "/Superior Double Room 2/5_otfjez.webp",
+   "/Superior Double Room 2/1_oowo0e.webp",
 ];
 const imagesFive = [
-"https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607898/8_of9xuk.webp",
-"https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607898/9_wrkffq.webp",
-"https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607900/7_itmrm2.webp",
-"https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607903/4_puuyhe.webp",
-"https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607912/1_yqudxj.webp",
-"https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607903/5_zfdjcx.webp"
+"/Superior Triple Room/8_of9xuk.webp",
+"/Superior Triple Room/9_wrkffq.webp",
+"/Superior Triple Room/7_itmrm2.webp",
+"/Superior Triple Room/4_puuyhe.webp",
+"/Superior Triple Room/1_yqudxj.webp",
+"/Superior Triple Room/5_zfdjcx.webp"
 ];
 
 // Deluxe Doble Room  
 const imagesSix = [
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761551827/dji_mimo_20251023_174704_0_1761297185649_photo_wac4o7.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761551803/dji_mimo_20251023_174554_0_1761297186641_photo_d3mcbr.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761551811/dji_mimo_20251023_174536_0_1761297186866_photo_1_jdaty4.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761551827/dji_mimo_20251023_174720_0_1761297185043_photo_ihwfb1.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761551814/dji_mimo_20251023_174544_0_1761297186469_photo_cpetrl.jpg"
+"/Deluxe Double Room/dji_mimo_20251023_174704_0_1761297185649_photo_wac4o7.jpg",
+"/Deluxe Double Room/dji_mimo_20251023_174554_0_1761297186641_photo_d3mcbr.jpg",
+"/Deluxe Double Room/dji_mimo_20251023_174536_0_1761297186866_photo_1_jdaty4.jpg",
+"/Deluxe Double Room/dji_mimo_20251023_174720_0_1761297185043_photo_ihwfb1.jpg",
+"/Deluxe Double Room/dji_mimo_20251023_174544_0_1761297186469_photo_cpetrl.jpg"
 ];
 
 // Deluxe Triple Room

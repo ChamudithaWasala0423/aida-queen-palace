@@ -20,7 +20,7 @@ const Page = () => {
       <HeroImage
         title={t("HeroImageTitle")}
         description={t("HeroImageDescription")}
-        imageUrl="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607680/4_rdw5y5.webp"
+        imageUrl="/Deluxe Double Suite Room 1/4_rdw5y5.webp"
         uri="/contact"
         buttonText={t("HeroImageButtonText")}
       />
