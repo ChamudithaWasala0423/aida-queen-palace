@@ -32,7 +32,7 @@ const Footer = () => {
           <div className="mb-4">
             <Link href="/">
               <Image
-                src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758785855/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
+                src="/logo/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
                 alt={t("LogoAlt")}
                 width={200}
                 height={200}
@@ -207,7 +207,7 @@ const Footer = () => {
       </MaxWidthWrapper>
       <div className=" absolute bottom-0 overflow-hidden  w-full flex items-center justify-center   pointer-events-none">
         <Image
-          src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758702058/footer_aqp_agji1z.png"
+          src="/main/footer_aqp_agji1z.png"
           alt={t("LeafAlt")}
           width={1700}
           height={1000}

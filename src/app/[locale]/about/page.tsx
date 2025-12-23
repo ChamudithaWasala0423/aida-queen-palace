@@ -21,23 +21,23 @@ const Page = () => {
       <HeroImage
         title={t("HeroImageTitle")}
         description={t("HeroImageDescription")}
-        imageUrl="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607597/8_b4qyhk.webp"
+        imageUrl="/gallery/8_b4qyhk.webp"
         uri="/contact"
         buttonText={t("HeroImageButtonText")}
       />
       <ImageFullGrid
         title={t("AboutResortTitle")}
         description={t("AboutResortDescription")}
-        imageUrl="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607609/2_snbvej.webp"
+        imageUrl="/main/2_snbvej.webp"
         buttonText={t("AboutResortButtonText")}
       />
       <AboutGrid
         title={t("ChairmanTitle")}
         description={t("ChairmanDescription")}
-        imageUrl="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758138399/Frame-382.png_m7rkot.webp"
-        imageUrlTwo="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758138399/Frame-403-3.png_bcud8a.webp"
-        imageUrlThree="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758138408/Frame-404-3.png_bjbnsv.webp"
-        imageUrlFour="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758138410/Frame-38321_ro6abx.png"
+        imageUrl="/about/Frame-382.png_m7rkot.webp"
+        imageUrlTwo="/about/Frame-403-3.png_bcud8a.webp"
+        imageUrlThree="/about/Frame-404-3.png_bjbnsv.webp"
+        imageUrlFour="/about/Frame-38321_ro6abx.png"
         buttonText={t("ChairmanButtonText")}
         buttonUrl="/contact"
       />

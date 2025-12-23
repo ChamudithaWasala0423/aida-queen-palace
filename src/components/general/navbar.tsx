@@ -245,7 +245,7 @@ export default function NavBar() {
         {/* Center logo */}
         <Link href="/" className="inline-block">
           <Image
-            src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758785855/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
+            src="/logo/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
             alt="Logo"
             width={220}
             height={200}
@@ -403,7 +403,7 @@ export default function NavBar() {
           <div className="flex-1 text-center">
             <Link href="/" className="inline-block">
               <Image
-                src="https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758785855/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
+                src="/logo/AIDA_QUEEN_PALACE_LOGO_bzsro3.png"
                 alt="Logo"
                 width={200}
                 height={200}
