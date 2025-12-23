@@ -42,15 +42,15 @@ export default function Home() {
         keywords={t("HeadingKeywords")}
       />
       {/* <HeroCarousel /> */}
-      <HeroVideo videoUrl="https://res.cloudinary.com/dzffjgmyc/video/upload/v1761454092/Untitled_video_-_Made_with_Clipchamp_rg82ni.mp4" />
+      <HeroVideo videoUrl="/video/Untitled_video_-_Made_with_Clipchamp_rg82ni.mp4" />
       <ImageFullGrid
         title={t("ImageFullGridTitle")}
         description={t("ImageFullGridDescription")}
         imageUrl={
-          "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1758607614/3_iubqgr.webp"
+          "/main/3_iubqgr.webp"
         }
         buttonText={t("ImageFullGridButtonText")}
-      />
+      />``
       <div className="py-14">
         <CenterTitle
           title={`${t("ChooseTitle")}`}

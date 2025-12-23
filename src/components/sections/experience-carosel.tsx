@@ -9,47 +9,47 @@ export function ExperienceCardsCarousel() {
   const data = [
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665839/g1_vcyfln.jpg",
+      src: "/experiance/g1_vcyfln.webp",
       title: t("experianseTitleOne"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665842/g4_kkqmww.jpg",
+      src: "/experiance/g4_kkqmww.webp",
       title: t("experianseTitleFour"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665851/g7_a1mqqm.jpg",
+      src: "/experiance/g7_a1mqqm.webp",
       title: t("experianseTitleSeven"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665842/g9_xo7tpn.jpg",
+      src: "/experiance/g9_xo7tpn.webp",
       title: t("experianseTitleNine"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665845/g8_b0lsxe.webp",
+      src: "/experiance/g8_b0lsxe.webp",
       title: t("experianseTitleEight"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665841/g5_xno2e9.jpg",
+      src: "/experiance/g5_xno2e9.webp",
       title: t("experianseTitleFive"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665841/g6_y7lyc3.jpg",
+      src: "/experiance/g6_y7lyc3.webp",
       title: t("experianseTitleSix"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755667432/sri-lanka-cinnamon_1_wtx6zj.png",
+      src: "/experiance/sri-lanka-cinnamon_1_wtx6zj.png",
       title: t("experianseTitleEleven"),
     },
     {
       category: "@AIDAQueenPalace",
-      src: "https://res.cloudinary.com/dy3lm6cvw/image/upload/v1755665842/g10_xtce7j.jpg",
+      src: "/experiance/g10_xtce7j.webp",
       title: t("experianseTitleTen"),
     },
   ];
