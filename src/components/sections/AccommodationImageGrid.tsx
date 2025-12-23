@@ -69,33 +69,33 @@ const imagesSix = [
 
 // Deluxe Triple Room
 const imagesSeven = [
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761552916/dji_mimo_20251023_174028_0_1761297190801_photo_1_eiu40d.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761552908/dji_mimo_20251023_174048_0_1761297189981_photo_li0xh7.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761552915/dji_mimo_20251023_174118_0_1761297189779_photo_aqec6n.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761552914/dji_mimo_20251023_174320_0_1761297188110_photo_qj8xs5.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761552883/dji_mimo_20251023_174108_0_1761297190428_photo_h7d9qt.jpg",
-"https://res.cloudinary.com/dzffjgmyc/image/upload/v1761552897/dji_mimo_20251023_174144_0_1761297189345_photo_h78f6r.jpg"
+"/Deluxe Triple Room/dji_mimo_20251023_174028_0_1761297190801_photo_1_eiu40d.jpg",
+"/Deluxe Triple Room/dji_mimo_20251023_174048_0_1761297189981_photo_li0xh7.jpg",
+"/Deluxe Triple Room/dji_mimo_20251023_174118_0_1761297189779_photo_aqec6n.jpg",
+"/Deluxe Triple Room/dji_mimo_20251023_174320_0_1761297188110_photo_qj8xs5.jpg",
+"/Deluxe Triple Room/dji_mimo_20251023_174108_0_1761297190428_photo_h7d9qt.jpg",
+"/Deluxe Triple Room/dji_mimo_20251023_174144_0_1761297189345_photo_h78f6r.jpg"
 ];
 
 // Deluxe Family Room
 const imagesEight = [
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555848/dji_mimo_20251023_173012_0_1761297193252_photo_pl1ul0.jpg",
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555841/dji_mimo_20251023_173026_0_1761297193032_photo_qhthvx.jpg",
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555834/dji_mimo_20251023_173034_0_1761297192630_photo_pqqcvn.jpg",
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555843/dji_mimo_20251023_173044_0_1761297192425_photo_feljot.jpg",
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555841/dji_mimo_20251023_173050_0_1761297192233_photo_ncqgwt.jpg",
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555810/dji_mimo_20251023_173126_0_1761297191387_photo_q5aocw.jpg",
-      "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761555803/dji_mimo_20251023_173114_0_1761297191808_photo_kbnx5n.jpg"
+      "/Deluxe Family Room/dji_mimo_20251023_173012_0_1761297193252_photo_pl1ul0.jpg",
+      "/Deluxe Family Room/dji_mimo_20251023_173026_0_1761297193032_photo_qhthvx.jpg",
+      "/Deluxe Family Room/dji_mimo_20251023_173034_0_1761297192630_photo_pqqcvn.jpg",
+      "/Deluxe Family Room/dji_mimo_20251023_173044_0_1761297192425_photo_feljot.jpg",
+      "/Deluxe Family Room/dji_mimo_20251023_173050_0_1761297192233_photo_ncqgwt.jpg",
+      "/Deluxe Family Room/dji_mimo_20251023_173126_0_1761297191387_photo_q5aocw.jpg",
+      "/Deluxe Family Room/dji_mimo_20251023_173114_0_1761297191808_photo_kbnx5n.jpg"
 ];
 
 // Deluxe Quadruple Room
 const imagesNine = [
-     "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761556684/dji_mimo_20251023_171732_0_1761297196519_photo_ddwsyk.jpg",
-     "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761556686/dji_mimo_20251023_171712_0_1761297196961_photo_vfyshd.jpg",
-     "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761556686/dji_mimo_20251023_172104_0_1761297195221_photo_smqfbo.jpg",
-     "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761556666/dji_mimo_20251023_171622_0_1761297197849_photo_ex3m6c.jpg",
-     "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761556678/dji_mimo_20251023_171658_0_1761297196745_photo_x7sugo.jpg",
-     "https://res.cloudinary.com/dzffjgmyc/image/upload/v1761556679/dji_mimo_20251023_171830_0_1761297196095_photo_zcoc5f.jpg"
+     "/Deluxe Quadruple Room/dji_mimo_20251023_171732_0_1761297196519_photo_ddwsyk.jpg",
+     "/Deluxe Quadruple Room/dji_mimo_20251023_171712_0_1761297196961_photo_vfyshd.jpg",
+     "/Deluxe Quadruple Room/dji_mimo_20251023_172104_0_1761297195221_photo_smqfbo.jpg",
+     "/Deluxe Quadruple Room/dji_mimo_20251023_171622_0_1761297197849_photo_ex3m6c.jpg",
+     "/Deluxe Quadruple Room/dji_mimo_20251023_171658_0_1761297196745_photo_x7sugo.jpg",
+     "/Deluxe Quadruple Room/dji_mimo_20251023_171830_0_1761297196095_photo_zcoc5f.jpg"
 ];
 
 const facilities = [
